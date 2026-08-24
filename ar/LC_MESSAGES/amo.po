@@ -598,9 +598,8 @@ msgid "Log out"
 msgstr "اخرج"
 
 #: src/amo/components/AuthenticateButton/index.js:97
-#, fuzzy
 msgid "Log in"
-msgstr "اخرج"
+msgstr "لِج"
 
 #: src/amo/components/AutoSearchInput/index.js:198
 msgid "Loading"
