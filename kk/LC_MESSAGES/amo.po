@@ -19,7 +19,7 @@ msgstr "Қосылуда…"
 
 #: src/amo/components/AddAddonToCollection/index.js:235
 msgid "Select a collection…"
-msgstr ""
+msgstr "Жинақты таңдау…"
 
 #: src/amo/components/AddAddonToCollection/index.js:242
 msgid "Create new collection"
