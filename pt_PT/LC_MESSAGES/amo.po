@@ -2525,14 +2525,16 @@ msgid ""
 "When an add-on is deleted, it will no longer be available for download from addons.mozilla.org. If it's already installed, it will be disabled and users will be informed. They may choose to enable "
 "the add-on again at their own risk."
 msgstr ""
-"Quando um complemento é apagado, deixa de estar disponível para descarregar em addons.mozilla.org. Se já estiver instalado, será desativado e os utilizadores serão informados. Eles poderão escolher "
-"ativar novamente o complemento por seu próprio risco."
+"Quando um complemento é apagado, deixa de estar disponível para descarregar em addons.mozilla.org. Se já estiver instalado, será desativado e os utilizadores serão informados. Eles poderão optar por"
+" ativar novamente o complemento por seu próprio risco."
 
 #: src/amo/pages/Block/index.js:128
 msgid ""
 "Until the violation is resolved, this add-on won't be available for download from addons.mozilla.org. If it's already installed, it will be disabled and users will be informed about the violation. "
 "They may choose to enable the add-on again at their own risk."
 msgstr ""
+"Até que a violação seja resolvida, este complemento não estará disponível para descarregar de addons.mozilla.org. Se já estiver instalado, será desativado e os utilizadores serão informados da "
+"violação. Eles poderão optar por ativar novamente o complemento por seu próprio risco."
 
 #: src/amo/pages/Block/index.js:135
 msgid "Until the violation is resolved, this add-on won't be available for download from addons.mozilla.org. It will be automatically disabled and no longer usable in Firefox."
@@ -2540,11 +2542,11 @@ msgstr "Até que a violação seja resolvida, este complemento não estará disp
 
 #: src/amo/pages/Block/index.js:158
 msgid "%(addonName)s is restricted because it was deleted by the author(s)"
-msgstr ""
+msgstr "%(addonName)s está restringido porque foi apagado pelo(s) autor(es)"
 
 #: src/amo/pages/Block/index.js:165
 msgid "This add-on is restricted because it was deleted by the author(s)"
-msgstr ""
+msgstr "Este complemento está restringido porque foi apagado pelo(s) autor(es)"
 
 #: src/amo/pages/Block/index.js:172
 msgid "%(addonName)s is restricted for violating Mozilla policies"
@@ -2568,7 +2570,7 @@ msgstr "Por que motivo isto aconteceu?"
 
 #: src/amo/pages/Block/index.js:212
 msgid "The version of this extension, theme, or plugin was deleted by the author(s) and has therefore been restricted by Mozilla."
-msgstr ""
+msgstr "A versão desta extensão, tema ou plugin foi apagada pelo(s) autor(es) e por isso foi restringida pela Mozilla."
 
 #: src/amo/pages/Block/index.js:221
 msgid "This extension, theme, or plugin violates %(startLink)sMozilla's add-on policies%(endLink)s."
@@ -2580,13 +2582,15 @@ msgstr "O que isto significa?"
 
 #: src/amo/pages/Block/index.js:239
 msgid "Why does Mozilla restrict deleted add-ons?"
-msgstr ""
+msgstr "Porque é que a Mozilla restringe complementos apagados?"
 
 #: src/amo/pages/Block/index.js:245
 msgid ""
 "When the author deletes their add-on, it's no longer maintained or updated, which could compromise Firefox security, stability, or performance. To prevent this, the add-on will be restricted from "
 "general use to protect Firefox users. For more information, please read %(supportStartLink)sthis support article%(supportEndLink)s."
 msgstr ""
+"Quando o autor apaga o complemento, o mesmo deixa de ser mantido ou atualizado, o que pode comprometer a segurança, estabilidade ou desempenho do Firefox. Para evitar isto, o complemento terá a "
+"utilização geral restringida para proteger os utilizadores do Firefox. Para mais informação, por favor leia %(supportStartLink)seste artigo de suporte%(supportEndLink)s."
 
 #: src/amo/pages/Block/index.js:263
 msgid "How does Mozilla enforce its policies?"
@@ -2896,6 +2900,8 @@ msgid ""
 "To report a security vulnerability for an extension, even if it is not hosted on this site, please file an %(startSecIssueLink)sissue%(endSecIssueLink)s on Bugzilla. All security vulnerability "
 "reports are %(startLink)sconfidential%(endLink)s."
 msgstr ""
+"Para reportar uma vulnerabilidade de segurança para uma extensão, mesmo que não esteja alojada neste site, por favor submeta um %(startSecIssueLink)spedido%(endSecIssueLink)s no Bugzilla. Todos os "
+"relatórios de vulnerabilidades de segurança são %(startLink)sconfidenciais%(endLink)s."
 
 #: src/amo/pages/StaticPages/About/index.js:230
 msgid "Get support"
