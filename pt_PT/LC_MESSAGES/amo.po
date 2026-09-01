@@ -742,11 +742,11 @@ msgstr "Os autores deste complemento pedem que apoie o desenvolvimento do mesmo 
 
 #: src/amo/components/CopyAddonId/index.js:40
 msgid "Add-on ID copied"
-msgstr ""
+msgstr "ID do complemento copiado"
 
 #: src/amo/components/CopyAddonId/index.js:49
 msgid "Copy add-on ID"
-msgstr ""
+msgstr "Copiar ID do complemento"
 
 #: src/amo/components/DismissibleTextForm/index.js:199
 msgid "Enter text."
@@ -1370,23 +1370,23 @@ msgstr "Guia de análise"
 
 #: src/amo/components/Footer/index.js:159
 msgid "Download"
-msgstr ""
+msgstr "Transferir"
 
 #: src/amo/components/Footer/index.js:223
 msgid "Latest Builds"
-msgstr ""
+msgstr "Compilações Mais Recentes"
 
 #: src/amo/components/Footer/index.js:247
 msgid "Firefox for Business"
-msgstr ""
+msgstr "Firefox para Negócios"
 
 #: src/amo/components/Footer/index.js:263
 msgid "Community"
-msgstr ""
+msgstr "Comunidade"
 
 #: src/amo/components/Footer/index.js:293
 msgid "Follow"
-msgstr ""
+msgstr "Seguir"
 
 #: src/amo/components/Footer/index.js:348
 msgid "Privacy"
@@ -1584,19 +1584,19 @@ msgstr "Permissões opcionais:"
 
 #: src/amo/components/PermissionsCard/index.js:122
 msgid "Optional data collection, according to the developer:"
-msgstr ""
+msgstr "Recolha de dados opcional, de acordo com o programador:"
 
 #: src/amo/components/PermissionsCard/index.js:77
 msgid "Data collection:"
-msgstr ""
+msgstr "Recolha de dados:"
 
 #: src/amo/components/PermissionsCard/index.js:78
 msgid "Required data collection, according to the developer:"
-msgstr ""
+msgstr "Recolha de dados requerida, de acordo com o programador:"
 
 #: src/amo/components/PermissionsCard/index.js:82
 msgid "Permissions and data"
-msgstr ""
+msgstr "Permissões e dados"
 
 #: src/amo/components/PermissionsCard/index.js:92
 msgid "Required permissions:"
@@ -1696,23 +1696,23 @@ msgstr "Aceder à atividade do navegador durante a navegação"
 
 #: src/amo/components/PermissionsCard/permissions.js:66
 msgid "Authentication information"
-msgstr ""
+msgstr "Informação de autenticação"
 
 #: src/amo/components/PermissionsCard/permissions.js:67
 msgid "Bookmarks"
-msgstr ""
+msgstr "Marcadores"
 
 #: src/amo/components/PermissionsCard/permissions.js:68
 msgid "Browsing activity"
-msgstr ""
+msgstr "Atividade de navegação"
 
 #: src/amo/components/PermissionsCard/permissions.js:69
 msgid "Financial and payment information"
-msgstr ""
+msgstr "Informação financeira e de pagamento"
 
 #: src/amo/components/PermissionsCard/permissions.js:72
 msgid "Health information"
-msgstr ""
+msgstr "Informação de saúde"
 
 #: src/amo/components/PermissionsCard/permissions.js:73 src/amo/pages/UserProfile/index.js:371 src/amo/pages/UserProfileEdit/index.js:693
 msgid "Location"
@@ -1720,35 +1720,35 @@ msgstr "Localização"
 
 #: src/amo/components/PermissionsCard/permissions.js:74
 msgid "Personal communications"
-msgstr ""
+msgstr "Comunicações pessoais"
 
 #: src/amo/components/PermissionsCard/permissions.js:75
 msgid "Personally identifying information"
-msgstr ""
+msgstr "Informação de identificação pessoal"
 
 #: src/amo/components/PermissionsCard/permissions.js:78
 msgid "Search terms"
-msgstr ""
+msgstr "Termos de pesquisa"
 
 #: src/amo/components/PermissionsCard/permissions.js:79
 msgid "Technical and interaction data"
-msgstr ""
+msgstr "Dados técnicos e de interação"
 
 #: src/amo/components/PermissionsCard/permissions.js:80
 msgid "Website activity"
-msgstr ""
+msgstr "Atividade de website"
 
 #: src/amo/components/PermissionsCard/permissions.js:81
 msgid "Website content"
-msgstr ""
+msgstr "Conteúdo do website"
 
 #: src/amo/components/PermissionsCard/permissions.js:85
 msgid "The developer says this extension doesn't require data collection."
-msgstr ""
+msgstr "O programador indica que esta extensão não requer a recolha de dados."
 
 #: src/amo/components/QRCard/index.js:44
 msgid "Scan the QR code to open this extension in Firefox for Android"
-msgstr ""
+msgstr "Digitalize o código QR para abrir esta extensão no Firefox para Android"
 
 #: src/amo/components/Rating/index.js:103 src/amo/components/Rating/index.js:92
 msgid "Rated %(rating)s out of 5"
@@ -1789,11 +1789,11 @@ msgstr "Iniciar sessão para avaliar este complemento"
 #. This is shown on the rating manager of an add-on detail page when the site is put in read-only mode (for maintenance), which prevents users from rating said add-on.
 #: src/amo/components/RatingManager/index.js:185
 msgid "Add-on ratings are temporarily disabled."
-msgstr ""
+msgstr "As avaliações dos complementos estão temporariamente desativadas."
 
 #: src/amo/components/RatingManager/index.js:195
 msgid "Click to rate:"
-msgstr ""
+msgstr "Clique para avaliar:"
 
 #: src/amo/components/RatingManager/index.js:229
 msgid "Are you sure you want to delete your review of %(addonName)s?"
@@ -2295,19 +2295,19 @@ msgstr "Pré-visualização de %(title)s"
 
 #: src/amo/components/ThemePicker/index.js:90
 msgid "Automatic (match system)"
-msgstr ""
+msgstr "Automático (corresponder sistema)"
 
 #: src/amo/components/ThemePicker/index.js:91
 msgid "Light"
-msgstr ""
+msgstr "Claro"
 
 #: src/amo/components/ThemePicker/index.js:92
 msgid "Dark"
-msgstr ""
+msgstr "Escuro"
 
 #: src/amo/components/ThemePicker/index.js:98
 msgid "Change theme"
-msgstr ""
+msgstr "Mudar tema"
 
 #: src/amo/components/UserCollection/index.js:46
 msgid "%(total)s add-on"
@@ -2397,8 +2397,8 @@ msgstr "Ainda sem análises"
 #: src/amo/pages/Addon/index.js:305
 msgid "Rated %(ratingAverage)s by 1 reviewer"
 msgid_plural "Rated %(ratingAverage)s by %(ratingCount)s reviewers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Avaliado em %(ratingAverage)s por 1 avaliador"
+msgstr[1] "Avaliado em %(ratingAverage)s por %(ratingCount)s avaliadores"
 
 #: src/amo/pages/Addon/index.js:342
 msgid "About this dictionary"
@@ -2525,6 +2525,8 @@ msgid ""
 "When an add-on is deleted, it will no longer be available for download from addons.mozilla.org. If it's already installed, it will be disabled and users will be informed. They may choose to enable "
 "the add-on again at their own risk."
 msgstr ""
+"Quando um complemento é apagado, deixa de estar disponível para descarregar em addons.mozilla.org. Se já estiver instalado, será desativado e os utilizadores serão informados. Eles poderão escolher "
+"ativar novamente o complemento por seu próprio risco."
 
 #: src/amo/pages/Block/index.js:128
 msgid ""
