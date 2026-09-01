@@ -23,41 +23,41 @@ msgstr "Жинақты таңдау…"
 
 #: src/amo/components/AddAddonToCollection/index.js:242
 msgid "Create new collection"
-msgstr ""
+msgstr "Жаңа жинақ жасау"
 
 #: src/amo/components/AddAddonToCollection/index.js:283
 msgid "Added to %(collectionName)s"
-msgstr ""
+msgstr "%(collectionName)s жинағына қосылды"
 
 #. This is a header for a list meaning Add to [some collection name]
 #: src/amo/components/AddAddonToCollection/index.js:299
 msgid "Add to…"
-msgstr ""
+msgstr "Қайда қосу…"
 
 #. This action allows the add-on developer or an admin to edit an add-on's properties.
 #: src/amo/components/AddonAdminLinks/index.js:49 src/amo/components/AddonMoreInfo/index.js:220
 msgid "Edit add-on"
-msgstr ""
+msgstr "Қосымшаны түзету"
 
 #. This action allows an admin to maintain an add-on.
 #: src/amo/components/AddonAdminLinks/index.js:63
 msgid "Admin add-on"
-msgstr ""
+msgstr "Қосымшаға әкімшілік ету"
 
 #. This action allows a reviewer to perform a content review of an add-on.
 #: src/amo/components/AddonAdminLinks/index.js:77
 msgid "Content review add-on"
-msgstr ""
+msgstr "Қосымша мазмұнын тексеру"
 
 #. This action allows a reviewer to perform a review of a theme.
 #: src/amo/components/AddonAdminLinks/index.js:85
 msgid "Review theme"
-msgstr ""
+msgstr "Теманы тексеру"
 
 #. This action allows a reviewer to perform a review of an add-on's code.
 #: src/amo/components/AddonAdminLinks/index.js:87
 msgid "Review add-on code"
-msgstr ""
+msgstr "Қосымша кодын тексеру"
 
 #: src/amo/components/AddonBadges/index.js:136
 msgid "%(average)s (%(count)s review)"
@@ -169,7 +169,7 @@ msgstr ""
 
 #: src/amo/components/AddonMoreInfo/index.js:155 src/amo/pages/UserProfile/index.js:361 src/amo/pages/UserProfile/index.js:364 src/amo/pages/UserProfileEdit/index.js:676
 msgid "Homepage"
-msgstr ""
+msgstr "Үй парағы"
 
 #: src/amo/components/AddonMoreInfo/index.js:172
 msgid "Support site"
@@ -238,19 +238,19 @@ msgstr ""
 
 #: src/amo/components/AddonMoreInfo/index.js:456
 msgid "Version History"
-msgstr ""
+msgstr "Нұсқалар тарихы"
 
 #: src/amo/components/AddonMoreInfo/index.js:466
 msgid "Usage Statistics"
-msgstr ""
+msgstr "Пайдалану статистикасы"
 
 #: src/amo/components/AddonMoreInfo/index.js:474
 msgid "Tags"
-msgstr ""
+msgstr "Тегтер"
 
 #: src/amo/components/AddonMoreInfo/index.js:481 src/amo/components/CollectionAddAddon/index.js:196
 msgid "Add to collection"
-msgstr ""
+msgstr "Жинаққа қосу"
 
 #. This is a list of links to administrative functions.
 #: src/amo/components/AddonMoreInfo/index.js:491
@@ -320,20 +320,20 @@ msgstr ""
 
 #: src/amo/components/AddonReviewCard/index.js:247 src/amo/components/DismissibleTextForm/index.js:236
 msgid "Delete"
-msgstr ""
+msgstr "Өшіру"
 
 #: src/amo/components/AddonReviewCard/index.js:265 src/amo/components/AddonReviewManager/index.js:146 src/amo/components/CollectionManager/index.js:344
 #: src/amo/components/ConfirmationDialog/index.js:61 src/amo/components/DismissibleTextForm/index.js:221 src/amo/pages/UserProfileEdit/index.js:899
 msgid "Cancel"
-msgstr ""
+msgstr "Бас тарту"
 
 #: src/amo/components/AddonReviewCard/index.js:269
 msgid "Keep reply"
-msgstr ""
+msgstr "Жауапты сақтау"
 
 #: src/amo/components/AddonReviewCard/index.js:273
 msgid "Keep rating"
-msgstr ""
+msgstr "Рейтингті сақтау"
 
 #: src/amo/components/AddonReviewCard/index.js:276
 msgid "Keep review"
@@ -479,7 +479,7 @@ msgstr ""
 
 #: src/amo/components/AddonSummaryCard/index.js:52
 msgid "Add-on icon"
-msgstr ""
+msgstr "Қосымша таңбашасы"
 
 #. roundedAverage is a number rounded to one digit, such as 4.5 in English or ٤٫٧ in Arabic.
 #: src/amo/components/AddonSummaryCard/index.js:78
@@ -535,27 +535,27 @@ msgstr ""
 
 #: src/amo/components/AMInstallButton/index.js:140
 msgid "Disabling"
-msgstr ""
+msgstr "Сөндірілуде"
 
 #: src/amo/components/AMInstallButton/index.js:142
 msgid "Downloading"
-msgstr ""
+msgstr "Жүктелуде"
 
 #: src/amo/components/AMInstallButton/index.js:144
 msgid "Installing"
-msgstr ""
+msgstr "Орнатылуда"
 
 #: src/amo/components/AMInstallButton/index.js:146
 msgid "Uninstalling"
-msgstr ""
+msgstr "Өшірілуде"
 
 #: src/amo/components/AMInstallButton/index.js:154
 msgid "Install Theme"
-msgstr ""
+msgstr "Теманы орнату"
 
 #: src/amo/components/AMInstallButton/index.js:155
 msgid "Add to Firefox"
-msgstr ""
+msgstr "Firefox-қа қосу"
 
 #: src/amo/components/App/index.js:126 src/amo/components/HeadMetaTags/index.js:91
 msgid "Add-ons for Firefox (%(locale)s)"
@@ -635,7 +635,7 @@ msgstr ""
 
 #: src/amo/components/CollectionDetails/index.js:77 src/amo/components/Footer/index.js:78 src/amo/pages/CollectionFeedback/index.js:155
 msgid "Add-ons"
-msgstr ""
+msgstr "Қосымшалар"
 
 #: src/amo/components/CollectionDetails/index.js:81
 msgid "Creator"
@@ -751,11 +751,11 @@ msgstr ""
 
 #: src/amo/components/DismissibleTextForm/index.js:200
 msgid "Submit"
-msgstr ""
+msgstr "Жіберу"
 
 #: src/amo/components/DismissibleTextForm/index.js:202
 msgid "Submitting"
-msgstr ""
+msgstr "Жіберілуде"
 
 #: src/amo/components/EditableCollectionAddon/index.js:132 src/amo/components/EditableCollectionAddon/index.js:150
 msgid "Leave a note"
@@ -787,11 +787,11 @@ msgstr ""
 
 #: src/amo/components/ErrorList/index.js:59
 msgid "Reload To Continue"
-msgstr ""
+msgstr "Жалғастыру үшін қайта жүктеу"
 
 #: src/amo/components/ErrorPage/NotFound/index.js:27
 msgid "Page not found"
-msgstr ""
+msgstr "Бет табылмады"
 
 #: src/amo/components/ErrorPage/NotFound/index.js:29
 msgid "Sorry, but we can't find anything at the URL you entered."

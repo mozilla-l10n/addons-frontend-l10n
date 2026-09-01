@@ -1945,15 +1945,15 @@ msgstr "Популярные дополнения"
 
 #: src/amo/components/Search/index.js:192 src/amo/pages/LandingPage/index.js:142
 msgid "Top rated extensions"
-msgstr "Самые высоко оцененные расширения"
+msgstr "Самые высоко оценённые расширения"
 
 #: src/amo/components/Search/index.js:195 src/amo/pages/LandingPage/index.js:173
 msgid "Top rated themes"
-msgstr "Самые высоко оцененные темы"
+msgstr "Самые высоко оценённые темы"
 
 #: src/amo/components/Search/index.js:198
 msgid "Top rated add-ons"
-msgstr "Самые высоко оцененные дополнения"
+msgstr "Самые высоко оценённые дополнения"
 
 #: src/amo/components/Search/index.js:204
 msgid "Popular extensions"
@@ -2205,7 +2205,7 @@ msgstr "Пурпурный"
 
 #: src/amo/components/SearchFilters/index.js:295
 msgid "Filter results"
-msgstr "Результаты фильтра"
+msgstr "Фильтрация результатов"
 
 #: src/amo/components/SearchFilters/index.js:300
 msgid "Sort by"
@@ -2803,7 +2803,7 @@ msgstr "Украшающие"
 
 #: src/amo/pages/LandingPage/index.js:151
 msgid "See more top rated extensions"
-msgstr "Больше самых высоко оцененных расширений"
+msgstr "Больше самых высоко оценённых расширений"
 
 #: src/amo/pages/LandingPage/index.js:163
 msgid "See more recommended themes"
@@ -2815,7 +2815,7 @@ msgstr "Больше набирающих популярность тем"
 
 #: src/amo/pages/LandingPage/index.js:181
 msgid "See more top rated themes"
-msgstr "Больше самых высоко оцененных тем"
+msgstr "Больше самых высоко оценённых тем"
 
 #: src/amo/pages/LandingPage/index.js:205
 msgid "Download themes to change how Firefox looks. Tailor your experience to your tastes. Cute critters, evil robots, beautiful landscapes—thousands of options."

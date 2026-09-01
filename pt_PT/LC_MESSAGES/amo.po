@@ -61,17 +61,17 @@ msgstr "Revisão de código de complemento"
 
 #: src/amo/components/AddonBadges/index.js:136
 msgid "%(average)s (%(count)s review)"
-msgstr ""
+msgstr "%(average)s (%(count)s revisão)"
 
 #: src/amo/components/AddonBadges/index.js:140
 msgid "%(average)s (%(count)s reviews)"
-msgstr ""
+msgstr "%(average)s (%(count)s revisões)"
 
 #: src/amo/components/AddonBadges/index.js:169
 msgid "%(count)s User"
 msgid_plural "%(count)s Users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(count)s Utilizador"
+msgstr[1] "%(count)s Utilizadores"
 
 #: src/amo/components/AddonBadges/index.js:176
 msgid "No Users"
