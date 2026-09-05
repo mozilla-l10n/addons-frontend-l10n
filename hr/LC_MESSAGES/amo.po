@@ -745,11 +745,11 @@ msgstr "Autori ovog dodatka te mole, da pomoću male donacije podržiš daljnji 
 
 #: src/amo/components/CopyAddonId/index.js:40
 msgid "Add-on ID copied"
-msgstr ""
+msgstr "ID dodatka je kopiran"
 
 #: src/amo/components/CopyAddonId/index.js:49
 msgid "Copy add-on ID"
-msgstr ""
+msgstr "Kopiraj ID dodatka"
 
 #: src/amo/components/DismissibleTextForm/index.js:199
 msgid "Enter text."
@@ -1373,7 +1373,7 @@ msgstr "Priručnik za recenziranje"
 
 #: src/amo/components/Footer/index.js:159
 msgid "Download"
-msgstr ""
+msgstr "Preuzmi"
 
 #: src/amo/components/Footer/index.js:223
 msgid "Latest Builds"
