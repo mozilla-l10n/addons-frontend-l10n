@@ -1377,19 +1377,19 @@ msgstr "Preuzmi"
 
 #: src/amo/components/Footer/index.js:223
 msgid "Latest Builds"
-msgstr ""
+msgstr "Najnovije izgradnje"
 
 #: src/amo/components/Footer/index.js:247
 msgid "Firefox for Business"
-msgstr ""
+msgstr "Firefox za tvrtke"
 
 #: src/amo/components/Footer/index.js:263
 msgid "Community"
-msgstr ""
+msgstr "Zajednica"
 
 #: src/amo/components/Footer/index.js:293
 msgid "Follow"
-msgstr ""
+msgstr "Prati"
 
 #: src/amo/components/Footer/index.js:348
 msgid "Privacy"
@@ -1751,7 +1751,7 @@ msgstr "Programer kaže da ovo proširenje ne zahtijeva prikupljanje podataka."
 
 #: src/amo/components/QRCard/index.js:44
 msgid "Scan the QR code to open this extension in Firefox for Android"
-msgstr ""
+msgstr "Skeniraj QR kod za otvaranje ovog proširenja u Firefoxu za Android"
 
 #: src/amo/components/Rating/index.js:103 src/amo/components/Rating/index.js:92
 msgid "Rated %(rating)s out of 5"
@@ -1792,7 +1792,7 @@ msgstr "Prijavi se i ocijeni ovaj dodatak"
 #. This is shown on the rating manager of an add-on detail page when the site is put in read-only mode (for maintenance), which prevents users from rating said add-on.
 #: src/amo/components/RatingManager/index.js:185
 msgid "Add-on ratings are temporarily disabled."
-msgstr ""
+msgstr "Ocjenjivanje dodataka je privremeno onemogućeno."
 
 #: src/amo/components/RatingManager/index.js:195
 msgid "Click to rate:"
@@ -2323,19 +2323,19 @@ msgstr "Pregled za %(title)s"
 
 #: src/amo/components/ThemePicker/index.js:90
 msgid "Automatic (match system)"
-msgstr ""
+msgstr "Automatski (prati sustav)"
 
 #: src/amo/components/ThemePicker/index.js:91
 msgid "Light"
-msgstr ""
+msgstr "Svijetla"
 
 #: src/amo/components/ThemePicker/index.js:92
 msgid "Dark"
-msgstr ""
+msgstr "Tamna"
 
 #: src/amo/components/ThemePicker/index.js:98
 msgid "Change theme"
-msgstr ""
+msgstr "Promijeni temu"
 
 #: src/amo/components/UserCollection/index.js:46
 msgid "%(total)s add-on"
