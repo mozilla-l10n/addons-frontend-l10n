@@ -1672,7 +1672,7 @@ msgstr "Dostarczać kryptograficzne usługi uwierzytelniania"
 
 #: src/amo/components/PermissionsCard/permissions.js:56
 msgid "Control browser proxy settings"
-msgstr "Kontrolować ustawienia pośrednika przeglądarki"
+msgstr "Kontrolować ustawienia proxy przeglądarki"
 
 #: src/amo/components/PermissionsCard/permissions.js:57
 msgid "Read and modify privacy settings"
