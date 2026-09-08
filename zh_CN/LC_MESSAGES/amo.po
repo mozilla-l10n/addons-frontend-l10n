@@ -1705,7 +1705,7 @@ msgstr "个人通信"
 
 #: src/amo/components/PermissionsCard/permissions.js:75
 msgid "Personally identifying information"
-msgstr "个人身份信息"
+msgstr "识别个人身份的信息"
 
 #: src/amo/components/PermissionsCard/permissions.js:78
 msgid "Search terms"
