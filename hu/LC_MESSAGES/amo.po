@@ -1436,7 +1436,7 @@ msgstr "A kiegészítők használatához le kell %(downloadLinkStart)stöltenie 
 
 #: src/amo/components/GetFirefoxBanner/index.js:109 src/amo/components/WrongPlatformWarning/index.js:126
 msgid "To use Android extensions, you'll need %(downloadLinkStart)sFirefox for Android%(downloadLinkEnd)s."
-msgstr ""
+msgstr "Az androidos kiegészítők használatához szüksége lesz a %(downloadLinkStart)sFirefox for Androidra%(downloadLinkEnd)s."
 
 #: src/amo/components/GetFirefoxButton/index.js:153
 msgid "Download Firefox and get the theme"
