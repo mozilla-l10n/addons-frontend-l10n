@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-07-02 09:51+0000\n"
+"POT-Creation-Date: 2026-09-09 10:54+0000\n"
 "Language: mn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1527,18 +1527,17 @@ msgstr ""
 msgid "Firefox Add-ons Blog"
 msgstr ""
 
-#: src/amo/components/GetFirefoxBanner/index.js:120
+#: src/amo/components/GetFirefoxBanner/index.js:107
 msgid ""
 "To use these add-ons, you'll need to %(downloadLinkStart)sdownload "
 "Firefox%(downloadLinkEnd)s."
 msgstr ""
 
-#: src/amo/components/GetFirefoxBanner/index.js:122
-#: src/amo/components/WrongPlatformWarning/index.js:127
+#: src/amo/components/GetFirefoxBanner/index.js:109
+#: src/amo/components/WrongPlatformWarning/index.js:126
 msgid ""
 "To use Android extensions, you'll need %(downloadLinkStart)sFirefox for "
-"Android%(downloadLinkEnd)s. To explore Firefox for desktop add-ons, please "
-"%(linkStart)svisit our desktop site%(linkEnd)s."
+"Android%(downloadLinkEnd)s."
 msgstr ""
 
 #: src/amo/components/GetFirefoxButton/index.js:153
