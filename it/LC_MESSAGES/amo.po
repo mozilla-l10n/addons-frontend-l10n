@@ -1438,7 +1438,7 @@ msgstr "Per utilizzare questi componenti aggiuntivi è necessario %(downloadLink
 
 #: src/amo/components/GetFirefoxBanner/index.js:109 src/amo/components/WrongPlatformWarning/index.js:126
 msgid "To use Android extensions, you'll need %(downloadLinkStart)sFirefox for Android%(downloadLinkEnd)s."
-msgstr ""
+msgstr "Per usare le estensioni su Android, devi installare %(downloadLinkStart)sFirefox per Android%(downloadLinkEnd)s."
 
 #: src/amo/components/GetFirefoxButton/index.js:153
 msgid "Download Firefox and get the theme"
