@@ -2,11 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-09 10:54+0000\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -37,8 +35,7 @@ msgid "Add to…"
 msgstr "追加先:"
 
 #. This action allows the add-on developer or an admin to edit an add-on's properties.
-#: src/amo/components/AddonAdminLinks/index.js:49
-#: src/amo/components/AddonMoreInfo/index.js:220
+#: src/amo/components/AddonAdminLinks/index.js:49 src/amo/components/AddonMoreInfo/index.js:220
 msgid "Edit add-on"
 msgstr "アドオンを編集"
 
@@ -99,8 +96,7 @@ msgstr "このアドオンはお使いのバージョンの Firefox と互換性
 msgid "This add-on is not available on your platform."
 msgstr "このアドオンはお使いのプラットフォームに対応していません。"
 
-#: src/amo/components/AddonFeedbackForm/index.js:148
-#: src/amo/components/SearchResult/index.js:249
+#: src/amo/components/AddonFeedbackForm/index.js:148 src/amo/components/SearchResult/index.js:249
 msgid "%(total)s user"
 msgid_plural "%(total)s users"
 msgstr[0] "%(total)s 人のユーザー"
@@ -153,8 +149,7 @@ msgstr "%(addonName)s – 🦊 Firefox Android (%(locale)s) 向け拡張機能�
 
 #. please keep the fox emoji next to "Firefox Android".
 #: src/amo/components/AddonHead/index.js:79
-msgid ""
-"%(addonName)s – Get this Language Pack for 🦊 Firefox Android (%(locale)s)"
+msgid "%(addonName)s – Get this Language Pack for 🦊 Firefox Android (%(locale)s)"
 msgstr "%(addonName)s – 🦊 Firefox Android (%(locale)s) 向け言語パックを入手"
 
 #. please keep the fox emoji next to "Firefox Android".
@@ -172,10 +167,7 @@ msgstr "%(addonName)s – 🦊 Firefox Android (%(locale)s) 向けアドオン�
 msgid "%(addonName)s – Get this Dictionary for 🦊 Firefox (%(locale)s)"
 msgstr "%(addonName)s – 🦊 Firefox (%(locale)s) 向け辞書を入手"
 
-#: src/amo/components/AddonMoreInfo/index.js:155
-#: src/amo/pages/UserProfile/index.js:361
-#: src/amo/pages/UserProfile/index.js:364
-#: src/amo/pages/UserProfileEdit/index.js:676
+#: src/amo/components/AddonMoreInfo/index.js:155 src/amo/pages/UserProfile/index.js:361 src/amo/pages/UserProfile/index.js:364 src/amo/pages/UserProfileEdit/index.js:676
 msgid "Homepage"
 msgstr "ホームページ"
 
@@ -224,9 +216,7 @@ msgstr "バージョン"
 msgid "Size"
 msgstr "サイズ"
 
-#: src/amo/components/AddonMoreInfo/index.js:414
-#: src/amo/components/CollectionDetails/index.js:87
-#: src/amo/pages/CollectionFeedback/index.js:159
+#: src/amo/components/AddonMoreInfo/index.js:414 src/amo/components/CollectionDetails/index.js:87 src/amo/pages/CollectionFeedback/index.js:159
 msgid "Last updated"
 msgstr "最終更新日"
 
@@ -258,8 +248,7 @@ msgstr "使用統計"
 msgid "Tags"
 msgstr "タグ"
 
-#: src/amo/components/AddonMoreInfo/index.js:481
-#: src/amo/components/CollectionAddAddon/index.js:196
+#: src/amo/components/AddonMoreInfo/index.js:481 src/amo/components/CollectionAddAddon/index.js:196
 msgid "Add to collection"
 msgstr "コレクションへ追加"
 
@@ -290,12 +279,8 @@ msgid "You reported this add-on"
 msgstr "このアドオンを報告しました"
 
 #: src/amo/components/AddonReportAbuseLink/index.js:44
-msgid ""
-"We have received your report. Thanks for letting us know about your concerns "
-"with this add-on."
-msgstr ""
-"あなたの報告を受け取りました。このアドオンに関する懸念を知らせていただきあり"
-"がとうございます。"
+msgid "We have received your report. Thanks for letting us know about your concerns with this add-on."
+msgstr "あなたの報告を受け取りました。このアドオンに関する懸念を知らせていただきありがとうございます。"
 
 #: src/amo/components/AddonReportAbuseLink/index.js:56
 msgid "Report this add-on"
@@ -309,18 +294,15 @@ msgstr "返信を編集"
 msgid "Edit review"
 msgstr "レビューを編集"
 
-#: src/amo/components/AddonReviewCard/index.js:219
-#: src/amo/components/AddonReviewCard/index.js:251
+#: src/amo/components/AddonReviewCard/index.js:219 src/amo/components/AddonReviewCard/index.js:251
 msgid "Delete reply"
 msgstr "返信を削除"
 
-#: src/amo/components/AddonReviewCard/index.js:223
-#: src/amo/components/AddonReviewCard/index.js:255
+#: src/amo/components/AddonReviewCard/index.js:223 src/amo/components/AddonReviewCard/index.js:255
 msgid "Delete rating"
 msgstr "評価を削除"
 
-#: src/amo/components/AddonReviewCard/index.js:226
-#: src/amo/components/AddonReviewCard/index.js:258
+#: src/amo/components/AddonReviewCard/index.js:226 src/amo/components/AddonReviewCard/index.js:258
 msgid "Delete review"
 msgstr "レビューを削除"
 
@@ -336,17 +318,12 @@ msgstr "本当にこの評価を削除しますか？"
 msgid "Do you really want to delete this review?"
 msgstr "本当にこのレビューを削除しますか？"
 
-#: src/amo/components/AddonReviewCard/index.js:247
-#: src/amo/components/DismissibleTextForm/index.js:236
+#: src/amo/components/AddonReviewCard/index.js:247 src/amo/components/DismissibleTextForm/index.js:236
 msgid "Delete"
 msgstr "削除"
 
-#: src/amo/components/AddonReviewCard/index.js:265
-#: src/amo/components/AddonReviewManager/index.js:146
-#: src/amo/components/CollectionManager/index.js:344
-#: src/amo/components/ConfirmationDialog/index.js:61
-#: src/amo/components/DismissibleTextForm/index.js:221
-#: src/amo/pages/UserProfileEdit/index.js:899
+#: src/amo/components/AddonReviewCard/index.js:265 src/amo/components/AddonReviewManager/index.js:146 src/amo/components/CollectionManager/index.js:344
+#: src/amo/components/ConfirmationDialog/index.js:61 src/amo/components/DismissibleTextForm/index.js:221 src/amo/pages/UserProfileEdit/index.js:899
 msgid "Cancel"
 msgstr "キャンセル"
 
@@ -389,12 +366,8 @@ msgstr "投稿日時: %(linkStart)s%(timestamp)s%(linkEnd)s"
 
 #. Example in English: "by UserName123, last week"
 #: src/amo/components/AddonReviewCard/index.js:367
-msgid ""
-"by %(linkUserProfileStart)s%(authorName)s%(linkUserProfileEnd)s, "
-"%(linkStart)s%(timestamp)s%(linkEnd)s"
-msgstr ""
-"%(linkUserProfileStart)s%(authorName)s%(linkUserProfileEnd)s によるレビュー "
-"(%(linkStart)s%(timestamp)s%(linkEnd)s)"
+msgid "by %(linkUserProfileStart)s%(authorName)s%(linkUserProfileEnd)s, %(linkStart)s%(timestamp)s%(linkEnd)s"
+msgstr "%(linkUserProfileStart)s%(authorName)s%(linkUserProfileEnd)s によるレビュー (%(linkStart)s%(timestamp)s%(linkEnd)s)"
 
 #: src/amo/components/AddonReviewCard/index.js:480
 msgid "Deleting…"
@@ -405,12 +378,8 @@ msgid "Reply to this review"
 msgstr "このレビューに返信"
 
 #: src/amo/components/AddonReviewCard/index.js:541
-msgid ""
-"This rating or review has been deleted. You are only seeing it because of "
-"elevated permissions."
-msgstr ""
-"この評価またはレビューは削除されました。これは、あなたが昇格された権限を持っ"
-"ているため表示されています。"
+msgid "This rating or review has been deleted. You are only seeing it because of elevated permissions."
+msgstr "この評価またはレビューは削除されました。これは、あなたが昇格された権限を持っているため表示されています。"
 
 #: src/amo/components/AddonReviewCard/index.js:587
 msgid "Write a review"
@@ -524,22 +493,17 @@ msgid ","
 msgstr "、"
 
 #. Example: add-on "by" some authors
-#: src/amo/components/AddonTitle/index.js:93
-#: src/amo/components/AddonTitle/index.js:98
+#: src/amo/components/AddonTitle/index.js:93 src/amo/components/AddonTitle/index.js:98
 msgid "by"
 msgstr "作成者:"
 
 #: src/amo/components/AddonVersionCard/index.js:114
 msgid "Source code released under %(linkStart)s%(licenseName)s%(linkEnd)s"
-msgstr ""
-"ソースコードは %(linkStart)s%(licenseName)s%(linkEnd)s に従いリリースされてい"
-"ます"
+msgstr "ソースコードは %(linkStart)s%(licenseName)s%(linkEnd)s に従いリリースされています"
 
 #: src/amo/components/AddonVersionCard/index.js:125
 msgid "Source code released under %(linkStart)sCustom License%(linkEnd)s"
-msgstr ""
-"ソースコードは %(linkStart)s独自のライセンス%(linkEnd)s の下でリリースされて"
-"います"
+msgstr "ソースコードは %(linkStart)s独自のライセンス%(linkEnd)s の下でリリースされています"
 
 #: src/amo/components/AddonVersionCard/index.js:152
 msgid "Source code released under %(licenseName)s"
@@ -561,8 +525,7 @@ msgstr "リリース日 : %(dateReleased)s - %(fileSize)s"
 msgid "Enable"
 msgstr "有効にする"
 
-#: src/amo/components/AMInstallButton/index.js:136
-#: src/amo/components/EditableCollectionAddon/index.js:142
+#: src/amo/components/AMInstallButton/index.js:136 src/amo/components/EditableCollectionAddon/index.js:142
 msgid "Remove"
 msgstr "削除"
 
@@ -594,34 +557,27 @@ msgstr "テーマをインストール"
 msgid "Add to Firefox"
 msgstr "Firefox へ追加"
 
-#: src/amo/components/App/index.js:126
-#: src/amo/components/HeadMetaTags/index.js:91
+#: src/amo/components/App/index.js:126 src/amo/components/HeadMetaTags/index.js:91
 msgid "Add-ons for Firefox (%(locale)s)"
 msgstr "Firefox (%(locale)s) 向けアドオン"
 
-#: src/amo/components/App/index.js:130
-#: src/amo/components/HeadMetaTags/index.js:85
+#: src/amo/components/App/index.js:130 src/amo/components/HeadMetaTags/index.js:85
 msgid "%(title)s – Add-ons for Firefox (%(locale)s)"
 msgstr "%(title)s – Firefox (%(locale)s) 向けアドオン"
 
-#: src/amo/components/App/index.js:138
-#: src/amo/components/HeadMetaTags/index.js:90
+#: src/amo/components/App/index.js:138 src/amo/components/HeadMetaTags/index.js:90
 msgid "Add-ons for Firefox Android (%(locale)s)"
 msgstr "Firefox Android (%(locale)s) 向けアドオン"
 
-#: src/amo/components/App/index.js:142
-#: src/amo/components/HeadMetaTags/index.js:84
+#: src/amo/components/App/index.js:142 src/amo/components/HeadMetaTags/index.js:84
 msgid "%(title)s – Add-ons for Firefox Android (%(locale)s)"
 msgstr "%(title)s – Firefox Android (%(locale)s) 向けアドオン"
 
-#: src/amo/components/AuthenticateButton/index.js:100
-#: src/amo/components/Header/index.js:146
-msgid ""
-"This action is currently unavailable. Please reload the page in a moment."
+#: src/amo/components/AuthenticateButton/index.js:100 src/amo/components/Header/index.js:146
+msgid "This action is currently unavailable. Please reload the page in a moment."
 msgstr "この操作は現在利用できません。ページを再読み込みしてください。"
 
-#: src/amo/components/AuthenticateButton/index.js:96
-#: src/amo/components/Header/index.js:151
+#: src/amo/components/AuthenticateButton/index.js:96 src/amo/components/Header/index.js:151
 msgid "Log out"
 msgstr "ログアウト"
 
@@ -637,8 +593,7 @@ msgstr "読み込み中"
 msgid "Find add-ons"
 msgstr "アドオンを見つけよう"
 
-#: src/amo/components/AutoSearchInput/index.js:323
-#: src/amo/components/AutoSearchInput/index.js:351
+#: src/amo/components/AutoSearchInput/index.js:323 src/amo/components/AutoSearchInput/index.js:351
 msgid "Search"
 msgstr "検索"
 
@@ -678,9 +633,7 @@ msgstr "コレクションの詳細を編集"
 msgid "Back to collection"
 msgstr "コレクションへ戻る"
 
-#: src/amo/components/CollectionDetails/index.js:77
-#: src/amo/components/Footer/index.js:78
-#: src/amo/pages/CollectionFeedback/index.js:155
+#: src/amo/components/CollectionDetails/index.js:77 src/amo/components/Footer/index.js:78 src/amo/pages/CollectionFeedback/index.js:155
 msgid "Add-ons"
 msgstr "アドオン"
 
@@ -745,20 +698,12 @@ msgid "Support these developers"
 msgstr "これらの開発者を支援する"
 
 #: src/amo/components/ContributeCard/index.js:62
-msgid ""
-"The developer of this extension asks that you help support its continued "
-"development by making a small contribution."
-msgstr ""
-"この拡張機能の開発者は、開発を続けていくため、少額の寄付による支援を求めてい"
-"ます。"
+msgid "The developer of this extension asks that you help support its continued development by making a small contribution."
+msgstr "この拡張機能の開発者は、開発を続けていくため、少額の寄付による支援を求めています。"
 
 #: src/amo/components/ContributeCard/index.js:64
-msgid ""
-"The developers of this extension ask that you help support its continued "
-"development by making a small contribution."
-msgstr ""
-"この拡張機能の開発者は、開発を続けていくため、少額の寄付による支援を求めてい"
-"ます。"
+msgid "The developers of this extension ask that you help support its continued development by making a small contribution."
+msgstr "この拡張機能の開発者は、開発を続けていくため、少額の寄付による支援を求めています。"
 
 #: src/amo/components/ContributeCard/index.js:71
 msgid "Support this artist"
@@ -769,20 +714,12 @@ msgid "Support these artists"
 msgstr "これらのアーティストを支援する"
 
 #: src/amo/components/ContributeCard/index.js:76
-msgid ""
-"The artist of this theme asks that you help support its continued creation "
-"by making a small contribution."
-msgstr ""
-"このテーマのアーティストは、開発を続けていくため、少額の寄付による支援を求め"
-"ています。"
+msgid "The artist of this theme asks that you help support its continued creation by making a small contribution."
+msgstr "このテーマのアーティストは、開発を続けていくため、少額の寄付による支援を求めています。"
 
 #: src/amo/components/ContributeCard/index.js:78
-msgid ""
-"The artists of this theme ask that you help support its continued creation "
-"by making a small contribution."
-msgstr ""
-"このテーマのアーティストは、開発を続けていくため、少額の寄付による支援を求め"
-"ています。"
+msgid "The artists of this theme ask that you help support its continued creation by making a small contribution."
+msgstr "このテーマのアーティストは、開発を続けていくため、少額の寄付による支援を求めています。"
 
 #: src/amo/components/ContributeCard/index.js:85
 msgid "Support this author"
@@ -793,20 +730,12 @@ msgid "Support these authors"
 msgstr "これらの作者を支援する"
 
 #: src/amo/components/ContributeCard/index.js:90
-msgid ""
-"The author of this add-on asks that you help support its continued work by "
-"making a small contribution."
-msgstr ""
-"このアドオンの作者は、開発を続けていくため、少額の寄付による支援を求めていま"
-"す。"
+msgid "The author of this add-on asks that you help support its continued work by making a small contribution."
+msgstr "このアドオンの作者は、開発を続けていくため、少額の寄付による支援を求めています。"
 
 #: src/amo/components/ContributeCard/index.js:92
-msgid ""
-"The authors of this add-on ask that you help support its continued work by "
-"making a small contribution."
-msgstr ""
-"このアドオンの作者は、開発を続けていくため、少額の寄付による支援を求めていま"
-"す。"
+msgid "The authors of this add-on ask that you help support its continued work by making a small contribution."
+msgstr "このアドオンの作者は、開発を続けていくため、少額の寄付による支援を求めています。"
 
 #: src/amo/components/CopyAddonId/index.js:40
 msgid "Add-on ID copied"
@@ -828,8 +757,7 @@ msgstr "送信"
 msgid "Submitting"
 msgstr "送信中"
 
-#: src/amo/components/EditableCollectionAddon/index.js:132
-#: src/amo/components/EditableCollectionAddon/index.js:150
+#: src/amo/components/EditableCollectionAddon/index.js:132 src/amo/components/EditableCollectionAddon/index.js:150
 msgid "Leave a note"
 msgstr "メモを残す"
 
@@ -874,123 +802,70 @@ msgid "Error code: %(status)s."
 msgstr "エラーコード: %(status)s"
 
 #: src/amo/components/Errors/AuthExpired/index.js:45
-msgid ""
-"Login authentication has expired. %(startLink)sReload the page%(endLink)s to "
-"continue without authentication, or login again using the Log In link at the "
-"top of the page."
-msgstr ""
-"ログイン認証の有効期限が切れています。 %(startLink)sページを再読み込"
-"み%(endLink)s して認証せずに続行するか、ページ上部のログインリンクから再度ロ"
-"グインしてください。"
+msgid "Login authentication has expired. %(startLink)sReload the page%(endLink)s to continue without authentication, or login again using the Log In link at the top of the page."
+msgstr "ログイン認証の有効期限が切れています。 %(startLink)sページを再読み込み%(endLink)s して認証せずに続行するか、ページ上部のログインリンクから再度ログインしてください。"
 
 #: src/amo/components/Errors/AuthExpired/index.js:69
 msgid "Login Expired"
 msgstr "ログインの有効期限切れ"
 
 #: src/amo/components/Errors/NotAuthorized/index.js:23
-msgid ""
-"If you are signed in and think this message is an error, please <a "
-"href=\"%(url)s\">file an issue</a>. Tell us where you came from and what you "
-"were trying to access, and we'll fix the issue."
-msgstr ""
-"もしあなたがログインしていてこのメッセージがエラーだと思われる場合は、<a "
-"href=\"%(url)s\">問題を報告</a> してください。参照元のページと何を探していた"
-"かを教えてもらえれば、問題の修正に役立ちます。"
+msgid "If you are signed in and think this message is an error, please <a href=\"%(url)s\">file an issue</a>. Tell us where you came from and what you were trying to access, and we'll fix the issue."
+msgstr "もしあなたがログインしていてこのメッセージがエラーだと思われる場合は、<a href=\"%(url)s\">問題を報告</a> してください。参照元のページと何を探していたかを教えてもらえれば、問題の修正に役立ちます。"
 
 #: src/amo/components/Errors/NotAuthorized/index.js:34
 msgid "Not Authorized"
 msgstr "権限がありません"
 
 #: src/amo/components/Errors/NotAuthorized/index.js:36
-msgid ""
-"Sorry, but you aren't authorized to access this page. If you aren't signed "
-"in, try signing in using the link at the top of the page."
-msgstr ""
-"申し訳ありませんが、あなたにはこのページへアクセスする権限がありません。もし"
-"ログインしていない場合はページの上にあるリンクを使ってログインしてみてくださ"
-"い。"
+msgid "Sorry, but you aren't authorized to access this page. If you aren't signed in, try signing in using the link at the top of the page."
+msgstr "申し訳ありませんが、あなたにはこのページへアクセスする権限がありません。もしログインしていない場合はページの上にあるリンクを使ってログインしてみてください。"
 
 #: src/amo/components/Errors/NotFound/index.js:25
 msgid ""
-"Try visiting the page later, as the theme or extension may become available "
-"again. Alternatively, you may be able to find what you’re looking for in one "
-"of the available %(extensionStart)sextensions%(extensionEnd)s or "
-"%(themeStart)sthemes%(themeEnd)s, or by asking for help on our "
-"%(communityStart)scommunity forums%(communityEnd)s."
+"Try visiting the page later, as the theme or extension may become available again. Alternatively, you may be able to find what you’re looking for in one of the available "
+"%(extensionStart)sextensions%(extensionEnd)s or %(themeStart)sthemes%(themeEnd)s, or by asking for help on our %(communityStart)scommunity forums%(communityEnd)s."
 msgstr ""
-"テーマまたは拡張機能が再び利用可能になる可能性があるため、しばらくしてから"
-"ページにアクセスしてみてください。または、利用可能な %(extensionStart)s拡張機"
-"能%(extensionEnd)s または %(themeStart)sテーマ%(themeEnd)s のいずれかで探して"
-"いるものが見つかるかもしれません。あるいは、%(communityStart)sコミュニティ"
-"フォーラム%(communityEnd)s で質問することでも見つかるかもしれません。"
+"テーマまたは拡張機能が再び利用可能になる可能性があるため、しばらくしてからページにアクセスしてみてください。または、利用可能な %(extensionStart)s拡張機能%(extensionEnd)s または %(themeStart)sテーマ%(themeEnd)s "
+"のいずれかで探しているものが見つかるかもしれません。あるいは、%(communityStart)sコミュニティフォーラム%(communityEnd)s で質問することでも見つかるかもしれません。"
 
 #: src/amo/components/Errors/NotFound/index.js:78
 msgid "Oops! We can’t find that page"
 msgstr "申し訳ございません。ページを見つけることができませんでした。"
 
 #: src/amo/components/Errors/NotFound/index.js:81
-msgid ""
-"If you’ve followed a link from another site for an extension or theme, that "
-"item is no longer available. This could be because:"
-msgstr ""
-"別のサイトから拡張機能やテーマのリンクをたどってきた場合、そのアイテムが利用"
-"できなくなっています。これには次の理由が考えられます:"
+msgid "If you’ve followed a link from another site for an extension or theme, that item is no longer available. This could be because:"
+msgstr "別のサイトから拡張機能やテーマのリンクをたどってきた場合、そのアイテムが利用できなくなっています。これには次の理由が考えられます:"
 
 #: src/amo/components/Errors/NotFound/index.js:87
-msgid ""
-"The developer removed it. Developers commonly do this because they no longer "
-"support the extension or theme, or have replaced it."
-msgstr ""
-"開発者が削除しました。一般的には、開発者が拡張機能やテーマをサポートしなく"
-"なった場合や別のものと置き換えた場合に、この操作が行われます。"
+msgid "The developer removed it. Developers commonly do this because they no longer support the extension or theme, or have replaced it."
+msgstr "開発者が削除しました。一般的には、開発者が拡張機能やテーマをサポートしなくなった場合や別のものと置き換えた場合に、この操作が行われます。"
 
 #: src/amo/components/Errors/NotFound/index.js:92
 msgid ""
-"Mozilla removed it. This can happen when issues are found during the review "
-"of the extension or theme, or the extension or theme has been abusing the "
-"terms and conditions for addons.mozilla.org. The developer has the "
-"opportunity to resolve the issues and make the add-on available again."
-msgstr ""
-"Mozilla が削除しました。これは、拡張機能やテーマのレビュー中に問題が見つかっ"
-"た場合、または拡張機能やテーマが addons.mozilla.org の利用規約に違反している"
-"場合に行われることがあります。開発者には、問題を解決してアドオンを再び利用で"
-"きるようにする機会があります。"
+"Mozilla removed it. This can happen when issues are found during the review of the extension or theme, or the extension or theme has been abusing the terms and conditions for addons.mozilla.org. The"
+" developer has the opportunity to resolve the issues and make the add-on available again."
+msgstr "Mozilla が削除しました。これは、拡張機能やテーマのレビュー中に問題が見つかった場合、または拡張機能やテーマが addons.mozilla.org の利用規約に違反している場合に行われることがあります。開発者には、問題を解決してアドオンを再び利用できるようにする機会があります。"
 
 #: src/amo/components/Errors/ServerError/index.js:22
 msgid ""
-"If you have additional information that would help us you can <a "
-"href=\"https://github.com/mozilla/addons-frontend/issues/new/\">file an "
-"issue</a>. Tell us what steps you took that lead to the error and we'll do "
-"our best to fix it."
-msgstr ""
-"もし何か役に立つ詳しい情報をお持ちの場合は <a href=\"https://github.com/"
-"mozilla/addons-frontend/issues/new/\">問題を報告</a> してください。エラーにつ"
-"ながるまでの手順を教えてもらえれば、私たちは問題の修正に最善を尽くします。"
+"If you have additional information that would help us you can <a href=\"https://github.com/mozilla/addons-frontend/issues/new/\">file an issue</a>. Tell us what steps you took that lead to the error"
+" and we'll do our best to fix it."
+msgstr "もし何か役に立つ詳しい情報をお持ちの場合は <a href=\"https://github.com/mozilla/addons-frontend/issues/new/\">問題を報告</a> してください。エラーにつながるまでの手順を教えてもらえれば、私たちは問題の修正に最善を尽くします。"
 
 #: src/amo/components/Errors/ServerError/index.js:30
 msgid "Server Error"
 msgstr "サーバーエラー"
 
 #: src/amo/components/Errors/ServerError/index.js:32
-msgid ""
-"Sorry, but there was an error with our server and we couldn't complete your "
-"request. We have logged this error and will investigate it."
-msgstr ""
-"申し訳ありませんが、サーバー上でエラーが発生したため、あなたのリクエストを完"
-"了することができませんでした。私たちはこのエラーを記録しており、今後調査を行"
-"います。"
+msgid "Sorry, but there was an error with our server and we couldn't complete your request. We have logged this error and will investigate it."
+msgstr "申し訳ありませんが、サーバー上でエラーが発生したため、あなたのリクエストを完了することができませんでした。私たちはこのエラーを記録しており、今後調査を行います。"
 
 #: src/amo/components/Errors/UnavailableForLegalReasons/index.js:25
 msgid ""
-"You may be able to find what you’re looking for in one of the available "
-"%(extensionStart)sextensions%(extensionEnd)s or "
-"%(themeStart)sthemes%(themeEnd)s, or by asking for help on our "
+"You may be able to find what you’re looking for in one of the available %(extensionStart)sextensions%(extensionEnd)s or %(themeStart)sthemes%(themeEnd)s, or by asking for help on our "
 "%(communityStart)scommunity forums%(communityEnd)s."
-msgstr ""
-"お探しのものは、利用可能な %(extensionStart)s拡張機能%(extensionEnd)s または "
-"%(themeStart)sテーマ%(themeEnd)s のいずれかで見つかる可能性があります。また"
-"は、%(communityStart)sコミュニティフォーラム%(communityEnd)s でサポートを求め"
-"ることで見つかる可能性があります。"
+msgstr "お探しのものは、利用可能な %(extensionStart)s拡張機能%(extensionEnd)s または %(themeStart)sテーマ%(themeEnd)s のいずれかで見つかる可能性があります。または、%(communityStart)sコミュニティフォーラム%(communityEnd)s でサポートを求めることで見つかる可能性があります。"
 
 #: src/amo/components/Errors/UnavailableForLegalReasons/index.js:76
 msgid "That page is not available in your region"
@@ -1017,25 +892,16 @@ msgid "The review was not found."
 msgstr "レビューが見つかりませんでした。"
 
 #: src/amo/components/FeedbackForm/index.js:1014
-msgid ""
-"By submitting this report I certify, under penalty of perjury, that the "
-"allegations it contains are complete and accurate, to the best of my "
-"knowledge."
-msgstr ""
-"この報告書を提出することにより、私は偽証罪に問われることを覚悟の上で、報告書"
-"に含まれる申し立てが私の知る限り完全かつ正確であることを証明します。"
+msgid "By submitting this report I certify, under penalty of perjury, that the allegations it contains are complete and accurate, to the best of my knowledge."
+msgstr "この報告書を提出することにより、私は偽証罪に問われることを覚悟の上で、報告書に含まれる申し立てが私の知る限り完全かつ正確であることを証明します。"
 
 #: src/amo/components/FeedbackForm/index.js:105
 msgid "It doesn’t work, breaks websites, or slows down Firefox"
 msgstr "動作しない、ウェブサイトが壊れる、Firefox の速度が遅くなる"
 
 #: src/amo/components/FeedbackForm/index.js:108
-msgid ""
-"Example: Features are slow, hard to use, or don’t work; parts of websites "
-"won't load or look unusual."
-msgstr ""
-"例: 機能の動作が遅い、使うのが困難、まったく動作しない、ウェブサイトの一部が"
-"読み込まれない、または表示が異常。"
+msgid "Example: Features are slow, hard to use, or don’t work; parts of websites won't load or look unusual."
+msgstr "例: 機能の動作が遅い、使うのが困難、まったく動作しない、ウェブサイトの一部が読み込まれない、または表示が異常。"
 
 #: src/amo/components/FeedbackForm/index.js:113
 msgid "It’s spam"
@@ -1050,12 +916,8 @@ msgid "It violates Add-on Policies"
 msgstr "アドオンポリシーに違反しています"
 
 #: src/amo/components/FeedbackForm/index.js:123
-msgid ""
-"Example: It compromised my data without informing or asking me, or it "
-"changed my search engine or home page without informing or asking me."
-msgstr ""
-"例: ユーザーの同意なしにデータを侵害したか、同意なしに検索エンジンやホーム"
-"ページを変更した。"
+msgid "Example: It compromised my data without informing or asking me, or it changed my search engine or home page without informing or asking me."
+msgstr "例: ユーザーの同意なしにデータを侵害したか、同意なしに検索エンジンやホームページを変更した。"
 
 #: src/amo/components/FeedbackForm/index.js:129
 msgid "It contains hateful, violent, deceptive, or other inappropriate content"
@@ -1071,17 +933,11 @@ msgstr "法律に違反している、または法律に違反する内容が含
 
 #: src/amo/components/FeedbackForm/index.js:139
 msgid ""
-"Example: Fraud. (If you wish to report a copyright or trademark "
-"infringement, you can learn more about how to do so in our "
-"%(startLink)sCopyright or Trademark Infringement Reporting "
+"Example: Fraud. (If you wish to report a copyright or trademark infringement, you can learn more about how to do so in our %(startLink)sCopyright or Trademark Infringement Reporting "
 "article%(endLink)s)."
-msgstr ""
-"例: 詐欺。(著作権または商標権の侵害を報告する場合は、%(startLink)s著作権また"
-"は商標権の侵害の報告に関する記事%(endLink)s でその方法について詳しく知ること"
-"ができます)。"
+msgstr "例: 詐欺。(著作権または商標権の侵害を報告する場合は、%(startLink)s著作権または商標権の侵害の報告に関する記事%(endLink)s でその方法について詳しく知ることができます)。"
 
-#: src/amo/components/FeedbackForm/index.js:151
-#: src/amo/components/FeedbackForm/index.js:536
+#: src/amo/components/FeedbackForm/index.js:151 src/amo/components/FeedbackForm/index.js:536
 msgid "Something else"
 msgstr "その他"
 
@@ -1182,14 +1038,11 @@ msgid "Non-compliance with pricing regulations"
 msgstr "価格規制の不遵守"
 
 #: src/amo/components/FeedbackForm/index.js:255
-msgid ""
-"Hidden advertisement or commercial communication, including by influencers"
-msgstr ""
-"インフルエンサーによるものも含め、隠れた広告や商業的なコミュニケーション"
+msgid "Hidden advertisement or commercial communication, including by influencers"
+msgstr "インフルエンサーによるものも含め、隠れた広告や商業的なコミュニケーション"
 
 #: src/amo/components/FeedbackForm/index.js:261
-msgid ""
-"Misleading information about the characteristics of the goods and services"
+msgid "Misleading information about the characteristics of the goods and services"
 msgstr "商品やサービスの特性に関する誤解を招く情報"
 
 #: src/amo/components/FeedbackForm/index.js:267
@@ -1221,9 +1074,7 @@ msgid "Discrimination"
 msgstr "差別"
 
 #: src/amo/components/FeedbackForm/index.js:305
-msgid ""
-"Illegal incitement to violence and hatred based on protected characteristics "
-"(hate speech)"
+msgid "Illegal incitement to violence and hatred based on protected characteristics (hate speech)"
 msgstr "保護特性に基づく暴力や憎悪の違法な扇動 (ヘイトスピーチ)"
 
 #: src/amo/components/FeedbackForm/index.js:318
@@ -1251,9 +1102,7 @@ msgid "Violation of national law relevant to civic discourse or elections"
 msgstr "市民の議論や選挙に関連する国内法の違反"
 
 #: src/amo/components/FeedbackForm/index.js:353
-msgid ""
-"Misinformation, disinformation, foreign information manipulation and "
-"interference"
+msgid "Misinformation, disinformation, foreign information manipulation and interference"
 msgstr "誤報、偽情報、外国の情報操作と干渉"
 
 #: src/amo/components/FeedbackForm/index.js:366
@@ -1261,11 +1110,8 @@ msgid "Non-consensual image sharing"
 msgstr "同意のない画像共有"
 
 #: src/amo/components/FeedbackForm/index.js:370
-msgid ""
-"Non-consensual items containing deepfake or similar technology using a third "
-"party's features"
-msgstr ""
-"ディープフェイクや第三者の機能を使用した類似の技術を含む、同意のないアイテム"
+msgid "Non-consensual items containing deepfake or similar technology using a third party's features"
+msgstr "ディープフェイクや第三者の機能を使用した類似の技術を含む、同意のないアイテム"
 
 #: src/amo/components/FeedbackForm/index.js:376
 msgid "Online bullying/intimidation"
@@ -1412,12 +1258,8 @@ msgid "Provide more details"
 msgstr "より詳細な情報を提供"
 
 #: src/amo/components/FeedbackForm/index.js:879
-msgid ""
-"Please provide any additional information that may help us to understand "
-"your report (including which policy you believe has been violated)."
-msgstr ""
-"ご報告を理解する上で役立つ追加情報 （違反したと思われるポリシーを含む） があ"
-"ればご提供ください。"
+msgid "Please provide any additional information that may help us to understand your report (including which policy you believe has been violated)."
+msgstr "ご報告を理解する上で役立つ追加情報 （違反したと思われるポリシーを含む） があればご提供ください。"
 
 #: src/amo/components/FeedbackForm/index.js:887
 msgid "Contact information"
@@ -1428,12 +1270,8 @@ msgid "File report anonymously"
 msgstr "匿名でレポートを提出する"
 
 #: src/amo/components/FeedbackForm/index.js:906
-msgid ""
-"Filing an anonymous report will prevent us from communicating with you about "
-"the report’s status, or about any options for appeal."
-msgstr ""
-"匿名で報告を提出すると、報告のステータスや異議申し立てのオプションについて弊"
-"社からの連絡ができなくなります。"
+msgid "Filing an anonymous report will prevent us from communicating with you about the report’s status, or about any options for appeal."
+msgstr "匿名で報告を提出すると、報告のステータスや異議申し立てのオプションについて弊社からの連絡ができなくなります。"
 
 #: src/amo/components/FeedbackForm/index.js:927
 msgid "Your name %(spanStart)s(optional)%(spanEnd)s"
@@ -1479,8 +1317,7 @@ msgstr "スパム"
 msgid "Flagged as spam"
 msgstr "スパムとしてフラグが立てられました"
 
-#: src/amo/components/FlagReviewMenu/index.js:73
-#: src/amo/components/FlagReviewMenu/index.js:91
+#: src/amo/components/FlagReviewMenu/index.js:73 src/amo/components/FlagReviewMenu/index.js:91
 msgid "Login required"
 msgstr "ログインが必要です"
 
@@ -1492,13 +1329,11 @@ msgstr "場違いなバグ報告またはサポートリクエスト"
 msgid "Flagged as misplaced bug report or support request"
 msgstr "場違いなバグ報告またはサポートリクエストとしてフラグが立てられました"
 
-#: src/amo/components/Footer/index.js:101
-#: src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:101 src/amo/components/Header/index.js:216
 msgid "Extension Workshop"
 msgstr "拡張機能ワークショップ"
 
-#: src/amo/components/Footer/index.js:106
-#: src/amo/components/Header/index.js:226
+#: src/amo/components/Footer/index.js:106 src/amo/components/Header/index.js:226
 msgid "Developer Hub"
 msgstr "開発者センター"
 
@@ -1556,25 +1391,15 @@ msgstr "法的情報"
 
 #: src/amo/components/Footer/index.js:375
 msgid ""
-"Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on "
-"this site is licensed under the %(startLicenseLink)sCreative Commons "
-"Attribution Share-Alike License v3.0%(endLicenseLink)s or any later version. "
-"Android is a trademark of Google LLC."
-msgstr ""
-"特に %(startNotedLink)s明記されている%(endNotedLink)s 場合を除き、当サイト上"
-"のコンテンツは %(startLicenseLink)sCreative Commons 表示・継承ライセンス "
-"v3.0%(endLicenseLink)s あるいはそれ以降のバージョンでライセンスされています。"
-"Android は Google LLC の登録商標です。"
+"Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on this site is licensed under the %(startLicenseLink)sCreative Commons Attribution Share-Alike License v3.0%(endLicenseLink)s"
+" or any later version. Android is a trademark of Google LLC."
+msgstr "特に %(startNotedLink)s明記されている%(endNotedLink)s 場合を除き、当サイト上のコンテンツは %(startLicenseLink)sCreative Commons 表示・継承ライセンス v3.0%(endLicenseLink)s あるいはそれ以降のバージョンでライセンスされています。Android は Google LLC の登録商標です。"
 
 #: src/amo/components/Footer/index.js:381
 msgid ""
-"Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on "
-"this site is licensed under the %(startLicenseLink)sCreative Commons "
-"Attribution Share-Alike License v3.0%(endLicenseLink)s or any later version."
-msgstr ""
-"特に %(startNotedLink)s明記されている%(endNotedLink)s 場合を除き、当サイト上"
-"のコンテンツは %(startLicenseLink)sCreative Commons 表示・継承ライセンス "
-"v3.0%(endLicenseLink)s あるいはそれ以降のバージョンで公開されています。"
+"Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on this site is licensed under the %(startLicenseLink)sCreative Commons Attribution Share-Alike License v3.0%(endLicenseLink)s"
+" or any later version."
+msgstr "特に %(startNotedLink)s明記されている%(endNotedLink)s 場合を除き、当サイト上のコンテンツは %(startLicenseLink)sCreative Commons 表示・継承ライセンス v3.0%(endLicenseLink)s あるいはそれ以降のバージョンで公開されています。"
 
 #: src/amo/components/Footer/index.js:53
 msgid "Go to Mozilla's homepage"
@@ -1589,18 +1414,11 @@ msgid "Firefox Add-ons Blog"
 msgstr "Firefox アドオンブログ"
 
 #: src/amo/components/GetFirefoxBanner/index.js:107
-msgid ""
-"To use these add-ons, you'll need to %(downloadLinkStart)sdownload "
-"Firefox%(downloadLinkEnd)s."
-msgstr ""
-"これらのアドオンを使用するには、%(downloadLinkStart)sFirefox をダウンロー"
-"ド%(downloadLinkEnd)s する必要があります。"
+msgid "To use these add-ons, you'll need to %(downloadLinkStart)sdownload Firefox%(downloadLinkEnd)s."
+msgstr "これらのアドオンを使用するには、%(downloadLinkStart)sFirefox をダウンロード%(downloadLinkEnd)s する必要があります。"
 
-#: src/amo/components/GetFirefoxBanner/index.js:109
-#: src/amo/components/WrongPlatformWarning/index.js:126
-msgid ""
-"To use Android extensions, you'll need %(downloadLinkStart)sFirefox for "
-"Android%(downloadLinkEnd)s."
+#: src/amo/components/GetFirefoxBanner/index.js:109 src/amo/components/WrongPlatformWarning/index.js:126
+msgid "To use Android extensions, you'll need %(downloadLinkStart)sFirefox for Android%(downloadLinkEnd)s."
 msgstr ""
 
 #: src/amo/components/GetFirefoxButton/index.js:153
@@ -1664,13 +1482,11 @@ msgstr "マイアカウント"
 msgid "View My Collections"
 msgstr "自分のコレクションを見る"
 
-#: src/amo/components/Header/index.js:89
-#: src/amo/pages/UserProfileEdit/index.js:563
+#: src/amo/components/Header/index.js:89 src/amo/pages/UserProfileEdit/index.js:563
 msgid "View My Profile"
 msgstr "自分のプロファイルを表示"
 
-#: src/amo/components/Header/index.js:97
-#: src/amo/pages/UserProfileEdit/index.js:569
+#: src/amo/components/Header/index.js:97 src/amo/pages/UserProfileEdit/index.js:569
 msgid "Edit My Profile"
 msgstr "自分のプロファイルを編集"
 
@@ -1693,12 +1509,8 @@ msgid "PROMOTED"
 msgstr "PROMOTED"
 
 #: src/amo/components/HeroRecommendation/index.js:264
-msgid ""
-"Firefox only recommends extensions that meet our standards for security and "
-"performance."
-msgstr ""
-"Firefox は Mozilla が定めた安全性とパフォーマンスの基準に適合する拡張機能のみ"
-"をおすすめします。"
+msgid "Firefox only recommends extensions that meet our standards for security and performance."
+msgstr "Firefox は Mozilla が定めた安全性とパフォーマンスの基準に適合する拡張機能のみをおすすめします。"
 
 #: src/amo/components/HomepageShelves/index.js:79
 msgid "See more %(categoryName)s"
@@ -1720,18 +1532,13 @@ msgstr "%(param)s のユーザーデータへのアクセス"
 msgid "Download file"
 msgstr "ファイルをダウンロード"
 
-#: src/amo/components/InstallWarning/index.js:102
-#: src/amo/components/PermissionsCard/index.js:140
+#: src/amo/components/InstallWarning/index.js:102 src/amo/components/PermissionsCard/index.js:140
 msgid "Learn more"
 msgstr "詳細情報"
 
 #: src/amo/components/InstallWarning/index.js:106
-msgid ""
-"This add-on is not actively monitored for security by Mozilla. Make sure you "
-"trust it before installing."
-msgstr ""
-"このアドオンは、Mozilla によるセキュリティの監視がアクティブに行われていませ"
-"ん。インストールする前に、信頼できるアドオンか自分で確かめてください。"
+msgid "This add-on is not actively monitored for security by Mozilla. Make sure you trust it before installing."
+msgstr "このアドオンは、Mozilla によるセキュリティの監視がアクティブに行われていません。インストールする前に、信頼できるアドオンか自分で確かめてください。"
 
 #: src/amo/components/LanguagePicker/index.js:52
 msgid "Change language"
@@ -1811,8 +1618,7 @@ msgstr "開いたタブのユーザーデータへアクセスするため開発
 
 #: src/amo/components/PermissionsCard/permissions.js:41
 msgid "Download files and read and modify the browser’s download history"
-msgstr ""
-"ファイルのダウンロードおよびブラウザーのダウンロード履歴の読み取りと変更"
+msgstr "ファイルのダウンロードおよびブラウザーのダウンロード履歴の読み取りと変更"
 
 #: src/amo/components/PermissionsCard/permissions.js:44
 msgid "Open files downloaded to your computer"
@@ -1826,8 +1632,7 @@ msgstr "開いているすべてのタブからのテキスト読み取り"
 msgid "Access your location"
 msgstr "位置情報へのアクセス"
 
-#: src/amo/components/PermissionsCard/permissions.js:47
-#: src/amo/components/PermissionsCard/permissions.js:61
+#: src/amo/components/PermissionsCard/permissions.js:47 src/amo/components/PermissionsCard/permissions.js:61
 msgid "Access browsing history"
 msgstr "ブラウジング履歴へアクセス"
 
@@ -1891,9 +1696,7 @@ msgstr "金融と支払いの情報"
 msgid "Health information"
 msgstr "健康情報"
 
-#: src/amo/components/PermissionsCard/permissions.js:73
-#: src/amo/pages/UserProfile/index.js:371
-#: src/amo/pages/UserProfileEdit/index.js:693
+#: src/amo/components/PermissionsCard/permissions.js:73 src/amo/pages/UserProfile/index.js:371 src/amo/pages/UserProfileEdit/index.js:693
 msgid "Location"
 msgstr "所在地"
 
@@ -2012,8 +1815,7 @@ msgstr[0] "%(total)s 件の 1 つ星のレビューをすべて読む"
 msgid "There are no one-star reviews"
 msgstr "1 つ星のレビューはありません"
 
-#: src/amo/components/RatingsByStar/index.js:136
-#: src/amo/pages/AddonReviewList/index.js:379
+#: src/amo/components/RatingsByStar/index.js:136 src/amo/pages/AddonReviewList/index.js:379
 msgid "There are no reviews"
 msgstr "まだレビューはありません"
 
@@ -2045,29 +1847,22 @@ msgid "You reported this user"
 msgstr "このユーザーを報告しました"
 
 #: src/amo/components/ReportUserAbuse/index.js:52
-msgid ""
-"We have received your report. Thanks for letting us know about your concerns "
-"with this user."
-msgstr ""
-"あなたの報告を受け取りました。このユーザーに関する懸念を知らせていただきあり"
-"がとうございます。"
+msgid "We have received your report. Thanks for letting us know about your concerns with this user."
+msgstr "あなたの報告を受け取りました。このユーザーに関する懸念を知らせていただきありがとうございます。"
 
 #: src/amo/components/ReportUserAbuse/index.js:64
 msgid "Report this user"
 msgstr "このユーザーを報告"
 
-#: src/amo/components/Search/index.js:138
-#: src/amo/components/SearchResults/index.js:71
+#: src/amo/components/Search/index.js:138 src/amo/components/SearchResults/index.js:71
 msgid "Search results"
 msgstr "検索結果"
 
-#: src/amo/components/Search/index.js:144 src/amo/pages/Home/index.js:162
-#: src/amo/pages/LandingPage/index.js:122
+#: src/amo/components/Search/index.js:144 src/amo/pages/Home/index.js:162 src/amo/pages/LandingPage/index.js:122
 msgid "Recommended extensions"
 msgstr "おすすめの拡張機能"
 
-#: src/amo/components/Search/index.js:147
-#: src/amo/pages/LandingPage/index.js:154
+#: src/amo/components/Search/index.js:147 src/amo/pages/LandingPage/index.js:154
 msgid "Recommended themes"
 msgstr "おすすめのテーマ"
 
@@ -2099,13 +1894,11 @@ msgstr "レビューされたテーマ"
 msgid "Reviewed add-ons"
 msgstr "レビューされたアドオン"
 
-#: src/amo/components/Search/index.js:180
-#: src/amo/pages/LandingPage/index.js:132
+#: src/amo/components/Search/index.js:180 src/amo/pages/LandingPage/index.js:132
 msgid "Trending extensions"
 msgstr "流行の拡張機能"
 
-#: src/amo/components/Search/index.js:183
-#: src/amo/pages/LandingPage/index.js:164
+#: src/amo/components/Search/index.js:183 src/amo/pages/LandingPage/index.js:164
 msgid "Trending themes"
 msgstr "流行のテーマ"
 
@@ -2113,13 +1906,11 @@ msgstr "流行のテーマ"
 msgid "Trending add-ons"
 msgstr "流行のアドオン"
 
-#: src/amo/components/Search/index.js:192
-#: src/amo/pages/LandingPage/index.js:142
+#: src/amo/components/Search/index.js:192 src/amo/pages/LandingPage/index.js:142
 msgid "Top rated extensions"
 msgstr "最も評価の高い拡張機能"
 
-#: src/amo/components/Search/index.js:195
-#: src/amo/pages/LandingPage/index.js:173
+#: src/amo/components/Search/index.js:195 src/amo/pages/LandingPage/index.js:173
 msgid "Top rated themes"
 msgstr "最も評価の高いテーマ"
 
@@ -2159,27 +1950,19 @@ msgid_plural "%(count)s extensions found"
 msgstr[0] "%(count)s 個の拡張機能が見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:134
-msgid ""
-"%(count)s theme found for \"%(query)s\" with tag %(tag)s in %(categoryName)s"
-msgid_plural ""
-"%(count)s themes found for \"%(query)s\" with tag %(tag)s in %(categoryName)s"
-msgstr[0] ""
-"%(categoryName)s カテゴリー内に %(tag)s タグを持ち「%(query)s」と一致するテー"
-"マが %(count)s 件見つかりました"
+msgid "%(count)s theme found for \"%(query)s\" with tag %(tag)s in %(categoryName)s"
+msgid_plural "%(count)s themes found for \"%(query)s\" with tag %(tag)s in %(categoryName)s"
+msgstr[0] "%(categoryName)s カテゴリー内に %(tag)s タグを持ち「%(query)s」と一致するテーマが %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:143
 msgid "%(count)s theme found for \"%(query)s\" in %(categoryName)s"
 msgid_plural "%(count)s themes found for \"%(query)s\" in %(categoryName)s"
-msgstr[0] ""
-"%(categoryName)sカテゴリーで「%(query)s」に一致するテーマが %(count)s 件見つ"
-"かりました"
+msgstr[0] "%(categoryName)sカテゴリーで「%(query)s」に一致するテーマが %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:152
 msgid "%(count)s theme found with tag %(tag)s in %(categoryName)s"
 msgid_plural "%(count)s themes found with tag %(tag)s in %(categoryName)s"
-msgstr[0] ""
-"%(categoryName)s カテゴリー内に %(tag)s タグを持つテーマが %(count)s 件見つか"
-"りました"
+msgstr[0] "%(categoryName)s カテゴリー内に %(tag)s タグを持つテーマが %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:161
 msgid "%(count)s theme found in %(categoryName)s"
@@ -2189,8 +1972,7 @@ msgstr[0] "%(categoryName)sカテゴリー内にテーマが %(count)s 件見つ
 #: src/amo/components/SearchContextCard/index.js:170
 msgid "%(count)s theme found for \"%(query)s\" with tag %(tag)s"
 msgid_plural "%(count)s themes found for \"%(query)s\" with tag %(tag)s"
-msgstr[0] ""
-"%(tag)s タグを持ち「%(query)s」と一致するテーマが %(count)s 件見つかりました"
+msgstr[0] "%(tag)s タグを持ち「%(query)s」と一致するテーマが %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:179
 msgid "%(count)s theme found for \"%(query)s\""
@@ -2210,8 +1992,7 @@ msgstr[0] "%(count)s 個のテーマが見つかりました"
 #: src/amo/components/SearchContextCard/index.js:209
 msgid "%(count)s result found for \"%(query)s\" with tag %(tag)s"
 msgid_plural "%(count)s results found for \"%(query)s\" with tag %(tag)s"
-msgstr[0] ""
-"%(tag)s タグを持つ「%(query)s」の検索結果が %(count)s 件見つかりました"
+msgstr[0] "%(tag)s タグを持つ「%(query)s」の検索結果が %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:218
 msgid "%(count)s result found for \"%(query)s\""
@@ -2237,42 +2018,29 @@ msgid "Searching for add-ons"
 msgstr "アドオンを検索しています"
 
 #: src/amo/components/SearchContextCard/index.js:59
-msgid ""
-"%(count)s extension found for \"%(query)s\" with tag %(tag)s in "
-"%(categoryName)s"
-msgid_plural ""
-"%(count)s extensions found for \"%(query)s\" with tag %(tag)s in "
-"%(categoryName)s"
-msgstr[0] ""
-"%(categoryName)s カテゴリー内に %(tag)s タグを持ち「%(query)s」と一致する拡張"
-"機能が %(count)s 件見つかりました"
+msgid "%(count)s extension found for \"%(query)s\" with tag %(tag)s in %(categoryName)s"
+msgid_plural "%(count)s extensions found for \"%(query)s\" with tag %(tag)s in %(categoryName)s"
+msgstr[0] "%(categoryName)s カテゴリー内に %(tag)s タグを持ち「%(query)s」と一致する拡張機能が %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:68
 msgid "%(count)s extension found for \"%(query)s\" in %(categoryName)s"
 msgid_plural "%(count)s extensions found for \"%(query)s\" in %(categoryName)s"
-msgstr[0] ""
-"\"%(query)s\" に一致する拡張機能が %(categoryName)s のカテゴリーに %(count)s "
-"件見つかりました"
+msgstr[0] "\"%(query)s\" に一致する拡張機能が %(categoryName)s のカテゴリーに %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:77
 msgid "%(count)s extension found with tag %(tag)s in %(categoryName)s"
 msgid_plural "%(count)s extensions found with tag %(tag)s in %(categoryName)s"
-msgstr[0] ""
-"%(categoryName)s カテゴリー内に %(tag)s タグを持つ拡張機能が %(count)s 件見つ"
-"かりました"
+msgstr[0] "%(categoryName)s カテゴリー内に %(tag)s タグを持つ拡張機能が %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:86
 msgid "%(count)s extension found in %(categoryName)s"
 msgid_plural "%(count)s extensions found in %(categoryName)s"
-msgstr[0] ""
-"拡張機能が %(categoryName)s のカテゴリーに %(count)s 件見つかりました"
+msgstr[0] "拡張機能が %(categoryName)s のカテゴリーに %(count)s 件見つかりました"
 
 #: src/amo/components/SearchContextCard/index.js:95
 msgid "%(count)s extension found for \"%(query)s\" with tag %(tag)s"
 msgid_plural "%(count)s extensions found for \"%(query)s\" with tag %(tag)s"
-msgstr[0] ""
-"%(tag)s タグを持ち「%(query)s」と一致する拡張機能が %(count)s 件見つかりまし"
-"た"
+msgstr[0] "%(tag)s タグを持ち「%(query)s」と一致する拡張機能が %(count)s 件見つかりました"
 
 #: src/amo/components/SearchFilters/index.js:178
 msgid "All"
@@ -2310,13 +2078,11 @@ msgstr "流行"
 msgid "Any"
 msgstr "すべて"
 
-#: src/amo/components/SearchFilters/index.js:210 src/amo/utils/promoted.js:49
-#: src/amo/utils/promoted.js:53
+#: src/amo/components/SearchFilters/index.js:210 src/amo/utils/promoted.js:49 src/amo/utils/promoted.js:53
 msgid "Recommended"
 msgstr "おすすめ"
 
-#: src/amo/components/SearchFilters/index.js:212 src/amo/utils/promoted.js:39
-#: src/amo/utils/promoted.js:43
+#: src/amo/components/SearchFilters/index.js:212 src/amo/utils/promoted.js:39 src/amo/utils/promoted.js:43
 msgid "By Firefox"
 msgstr "Firefox"
 
@@ -2416,9 +2182,7 @@ msgstr "「%(query)s」の検索結果はありません。"
 msgid "No results were found."
 msgstr "検索結果はありません。"
 
-#: src/amo/components/SectionLinks/index.js:112
-#: src/amo/pages/CategoryPage/index.js:60
-#: src/amo/pages/LandingPage/index.js:228
+#: src/amo/components/SectionLinks/index.js:112 src/amo/pages/CategoryPage/index.js:60 src/amo/pages/LandingPage/index.js:228
 msgid "Themes"
 msgstr "テーマ"
 
@@ -2442,9 +2206,7 @@ msgstr "他のブラウザーサイト"
 msgid "Add-ons for Android"
 msgstr "Android 向けアドオン"
 
-#: src/amo/components/SectionLinks/index.js:96
-#: src/amo/pages/CategoryPage/index.js:66
-#: src/amo/pages/LandingPage/index.js:229
+#: src/amo/components/SectionLinks/index.js:96 src/amo/pages/CategoryPage/index.js:66 src/amo/pages/LandingPage/index.js:229
 msgid "Extensions"
 msgstr "拡張機能"
 
@@ -2461,12 +2223,8 @@ msgid "Signed in as %(username)s"
 msgstr "%(username)s としてログインしています"
 
 #: src/amo/components/SiteNotices/index.js:68
-msgid ""
-"Some features are temporarily disabled while we perform website maintenance. "
-"We'll be back to full capacity shortly."
-msgstr ""
-"サイトメンテナンスの間、いくつかの機能が一時的に無効になっています。まもなく"
-"復旧する予定です。"
+msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
+msgstr "サイトメンテナンスの間、いくつかの機能が一時的に無効になっています。まもなく復旧する予定です。"
 
 #: src/amo/components/SiteNotices/index.js:83
 msgid "You have been logged out."
@@ -2542,32 +2300,20 @@ msgid "Save 50% with a full year subscription"
 msgstr "年間サブスクリプションで 50% 割引"
 
 #: src/amo/components/VPNPromoBanner/index.js:184
-msgid ""
-"Protect your online data—and choose a VPN subscription plan that works for "
-"you."
-msgstr ""
-"オンラインデータを保護し、自分に合った VPN サブスクリプションのプランを選択し"
-"てください。"
+msgid "Protect your online data—and choose a VPN subscription plan that works for you."
+msgstr "オンラインデータを保護し、自分に合った VPN サブスクリプションのプランを選択してください。"
 
 #: src/amo/components/VPNPromoBanner/index.js:211
 msgid "Get Mozilla VPN"
 msgstr "Mozilla VPN を入手"
 
 #: src/amo/components/WrongPlatformWarning/index.js:100
-msgid ""
-"To find extensions compatible with Firefox for Android, %(linkStart)sclick "
-"here%(linkEnd)s."
-msgstr ""
-"Android 版 Firefox と互換性のある拡張機能を見つけるには、%(linkStart)sここを"
-"クリック%(linkEnd)sしてください。"
+msgid "To find extensions compatible with Firefox for Android, %(linkStart)sclick here%(linkEnd)s."
+msgstr "Android 版 Firefox と互換性のある拡張機能を見つけるには、%(linkStart)sここをクリック%(linkEnd)sしてください。"
 
 #: src/amo/components/WrongPlatformWarning/index.js:89
-msgid ""
-"Add-ons are not compatible with Firefox for iOS. Try installing them on "
-"Firefox for desktop."
-msgstr ""
-"アドオンは iOS 版 Firefox と互換性がありません。デスクトップ版 Firefox でイン"
-"ストールしてみてください。"
+msgid "Add-ons are not compatible with Firefox for iOS. Try installing them on Firefox for desktop."
+msgstr "アドオンは iOS 版 Firefox と互換性がありません。デスクトップ版 Firefox でインストールしてみてください。"
 
 #: src/amo/i18n/utils.js:263
 msgid "%(localizedSize)s B"
@@ -2606,8 +2352,7 @@ msgstr "まだレビューはありません"
 #: src/amo/pages/Addon/index.js:305
 msgid "Rated %(ratingAverage)s by 1 reviewer"
 msgid_plural "Rated %(ratingAverage)s by %(ratingCount)s reviewers"
-msgstr[0] ""
-"%(ratingCount)s 人のレビュー担当者が %(ratingAverage)s と評価しました"
+msgstr[0] "%(ratingCount)s 人のレビュー担当者が %(ratingAverage)s と評価しました"
 
 #: src/amo/pages/Addon/index.js:342
 msgid "About this dictionary"
@@ -2634,9 +2379,7 @@ msgid "Developer comments"
 msgstr "開発者のコメント"
 
 #: src/amo/pages/Addon/index.js:478
-msgid ""
-"This is not a public listing. You are only seeing it because of elevated "
-"permissions."
+msgid "This is not a public listing. You are only seeing it because of elevated permissions."
 msgstr ""
 
 #: src/amo/pages/Addon/index.js:515
@@ -2664,9 +2407,7 @@ msgid "Privacy policy for %(addonName)s"
 msgstr "%(addonName)s の個人情報保護方針"
 
 #: src/amo/pages/AddonReviewList/index.js:199
-msgid ""
-"Reviews and ratings for %(addonName)s. Find out what other users think about "
-"%(addonName)s and add it to your Firefox Browser."
+msgid "Reviews and ratings for %(addonName)s. Find out what other users think about %(addonName)s and add it to your Firefox Browser."
 msgstr ""
 
 #: src/amo/pages/AddonReviewList/index.js:234
@@ -2708,12 +2449,8 @@ msgid_plural "%(addonName)s version history - %(total)s versions"
 msgstr[0] "%(addonName)s のバージョン履歴 - 全 %(total)s バージョン"
 
 #: src/amo/pages/AddonVersions/index.js:169
-msgid ""
-"Be careful with old versions! These versions are displayed for testing and "
-"reference purposes."
-msgstr ""
-"古いバージョンに注意してください！これらのバージョンは、テストや参照を目的に"
-"表示されています。"
+msgid "Be careful with old versions! These versions are displayed for testing and reference purposes."
+msgstr "古いバージョンに注意してください！これらのバージョンは、テストや参照を目的に表示されています。"
 
 #: src/amo/pages/AddonVersions/index.js:175
 msgid "You should always use the latest version of an add-on."
@@ -2737,28 +2474,19 @@ msgstr ""
 
 #: src/amo/pages/Block/index.js:121
 msgid ""
-"When an add-on is deleted, it will no longer be available for download from "
-"addons.mozilla.org. If it's already installed, it will be disabled and users "
-"will be informed. They may choose to enable the add-on again at their own "
-"risk."
+"When an add-on is deleted, it will no longer be available for download from addons.mozilla.org. If it's already installed, it will be disabled and users will be informed. They may choose to enable "
+"the add-on again at their own risk."
 msgstr ""
 
 #: src/amo/pages/Block/index.js:128
 msgid ""
-"Until the violation is resolved, this add-on won't be available for download "
-"from addons.mozilla.org. If it's already installed, it will be disabled and "
-"users will be informed about the violation. They may choose to enable the "
-"add-on again at their own risk."
+"Until the violation is resolved, this add-on won't be available for download from addons.mozilla.org. If it's already installed, it will be disabled and users will be informed about the violation. "
+"They may choose to enable the add-on again at their own risk."
 msgstr ""
 
 #: src/amo/pages/Block/index.js:135
-msgid ""
-"Until the violation is resolved, this add-on won't be available for download "
-"from addons.mozilla.org. It will be automatically disabled and no longer "
-"usable in Firefox."
-msgstr ""
-"違反が解決されるまで、このアドオンは addons.mozilla.org からダウンロードでき"
-"なくなります。自動的に無効化され、Firefox で使用できなくなります。"
+msgid "Until the violation is resolved, this add-on won't be available for download from addons.mozilla.org. It will be automatically disabled and no longer usable in Firefox."
+msgstr "違反が解決されるまで、このアドオンは addons.mozilla.org からダウンロードできなくなります。自動的に無効化され、Firefox で使用できなくなります。"
 
 #: src/amo/pages/Block/index.js:158
 msgid "%(addonName)s is restricted because it was deleted by the author(s)"
@@ -2778,8 +2506,7 @@ msgstr "このアドオンは Mozilla ポリシーに違反しているため制
 
 #: src/amo/pages/Block/index.js:186
 msgid "%(addonName)s is blocked for violating Mozilla policies"
-msgstr ""
-"%(addonName)s は Mozilla ポリシーに違反しているためブロックされています"
+msgstr "%(addonName)s は Mozilla ポリシーに違反しているためブロックされています"
 
 #: src/amo/pages/Block/index.js:193
 msgid "This add-on is blocked for violating Mozilla policies"
@@ -2790,18 +2517,12 @@ msgid "Why did this happen?"
 msgstr "このような問題が起きた理由は？"
 
 #: src/amo/pages/Block/index.js:212
-msgid ""
-"The version of this extension, theme, or plugin was deleted by the author(s) "
-"and has therefore been restricted by Mozilla."
+msgid "The version of this extension, theme, or plugin was deleted by the author(s) and has therefore been restricted by Mozilla."
 msgstr ""
 
 #: src/amo/pages/Block/index.js:221
-msgid ""
-"This extension, theme, or plugin violates %(startLink)sMozilla's add-on "
-"policies%(endLink)s."
-msgstr ""
-"この拡張機能、テーマ、またはプラグインは、%(startLink)sMozilla のアドオンポリ"
-"シー%(endLink)s に違反しています。"
+msgid "This extension, theme, or plugin violates %(startLink)sMozilla's add-on policies%(endLink)s."
+msgstr "この拡張機能、テーマ、またはプラグインは、%(startLink)sMozilla のアドオンポリシー%(endLink)s に違反しています。"
 
 #: src/amo/pages/Block/index.js:233
 msgid "What does this mean?"
@@ -2813,11 +2534,8 @@ msgstr ""
 
 #: src/amo/pages/Block/index.js:245
 msgid ""
-"When the author deletes their add-on, it's no longer maintained or updated, "
-"which could compromise Firefox security, stability, or performance. To "
-"prevent this, the add-on will be restricted from general use to protect "
-"Firefox users. For more information, please read %(supportStartLink)sthis "
-"support article%(supportEndLink)s."
+"When the author deletes their add-on, it's no longer maintained or updated, which could compromise Firefox security, stability, or performance. To prevent this, the add-on will be restricted from "
+"general use to protect Firefox users. For more information, please read %(supportStartLink)sthis support article%(supportEndLink)s."
 msgstr ""
 
 #: src/amo/pages/Block/index.js:263
@@ -2826,12 +2544,8 @@ msgstr ""
 
 #: src/amo/pages/Block/index.js:269
 msgid ""
-"When Mozilla becomes aware of add-ons, plugins, or other third-party "
-"software that seriously compromise Firefox security, stability, or "
-"performance and meet %(criteriaStartLink)scertain "
-"criteria%(criteriaEndLink)s, the software may be blocked or restricted from "
-"general use. For more information, please read %(supportStartLink)sthis "
-"support article%(supportEndLink)s."
+"When Mozilla becomes aware of add-ons, plugins, or other third-party software that seriously compromise Firefox security, stability, or performance and meet %(criteriaStartLink)scertain "
+"criteria%(criteriaEndLink)s, the software may be blocked or restricted from general use. For more information, please read %(supportStartLink)sthis support article%(supportEndLink)s."
 msgstr ""
 
 #: src/amo/pages/CategoriesPage/index.js:35
@@ -2863,9 +2577,7 @@ msgid "You reported this collection"
 msgstr ""
 
 #: src/amo/pages/Collection/index.js:459
-msgid ""
-"We have received your report. Thanks for letting us know about your concerns "
-"with this collection."
+msgid "We have received your report. Thanks for letting us know about your concerns with this collection."
 msgstr ""
 
 #: src/amo/pages/Collection/index.js:473
@@ -2882,29 +2594,19 @@ msgstr "このコレクションを編集するにはログインしてくださ
 
 #: src/amo/pages/Collection/index.js:527
 msgid "First, create your collection. Then you can add extensions and themes."
-msgstr ""
-"まず、コレクションを作成してください。その後、拡張機能やテーマを追加できるよ"
-"うになります"
+msgstr "まず、コレクションを作成してください。その後、拡張機能やテーマを追加できるようになります"
 
 #: src/amo/pages/Collection/index.js:530
 msgid "Search for extensions and themes to add to your collection."
 msgstr "コレクションへ追加する拡張機能やテーマを検索"
 
 #: src/amo/pages/Collection/index.js:591
-msgid ""
-"Download and create Firefox collections to keep track of favorite extensions "
-"and themes. Explore the %(collectionName)s—%(collectionDescription)s."
-msgstr ""
-"Firefox コレクションをダウンロードして作成し、お気に入りの拡張機能とテーマを"
-"追いかけましょう。%(collectionName)s—%(collectionDescription)s を調べる。"
+msgid "Download and create Firefox collections to keep track of favorite extensions and themes. Explore the %(collectionName)s—%(collectionDescription)s."
+msgstr "Firefox コレクションをダウンロードして作成し、お気に入りの拡張機能とテーマを追いかけましょう。%(collectionName)s—%(collectionDescription)s を調べる。"
 
 #: src/amo/pages/Collection/index.js:594
-msgid ""
-"Download and create Firefox collections to keep track of favorite extensions "
-"and themes. Explore the %(collectionName)s."
-msgstr ""
-"Firefox コレクションをダウンロードして作成し、お気に入りの拡張機能とテーマを"
-"追いかけましょう。%(collectionName)s を調べる。"
+msgid "Download and create Firefox collections to keep track of favorite extensions and themes. Explore the %(collectionName)s."
+msgstr "Firefox コレクションをダウンロードして作成し、お気に入りの拡張機能とテーマを追いかけましょう。%(collectionName)s を調べる。"
 
 #: src/amo/pages/CollectionFeedback/index.js:129
 msgid "Submit feedback or report a collection to Mozilla"
@@ -2939,12 +2641,8 @@ msgid "Log in to view your collections"
 msgstr "コレクションを見るにはログインしてください"
 
 #: src/amo/pages/CollectionList/index.js:133
-msgid ""
-"Collections make it easy to keep track of favorite add-ons and share your "
-"perfectly customized browser with others."
-msgstr ""
-"コレクションを使えば、お気に入りのアドオンをチェックしたり、完全にカスタマイ"
-"ズされたブラウザーを他のユーザーと共有したりすることが簡単にできます。"
+msgid "Collections make it easy to keep track of favorite add-ons and share your perfectly customized browser with others."
+msgstr "コレクションを使えば、お気に入りのアドオンをチェックしたり、完全にカスタマイズされたブラウザーを他のユーザーと共有したりすることが簡単にできます。"
 
 #: src/amo/pages/CollectionList/index.js:143
 msgid "Create a collection"
@@ -2987,14 +2685,8 @@ msgid "Change the way Firefox looks with themes."
 msgstr "テーマで Firefox の見た目を変えてみましょう。"
 
 #: src/amo/pages/Home/index.js:208
-msgid ""
-"Download Firefox extensions and themes. They’re like apps for your browser. "
-"They can block annoying ads, protect passwords, change browser appearance, "
-"and more."
-msgstr ""
-"Firefox の拡張機能とテーマをダウンロードしましょう。これらはブラウザー用のア"
-"プリのようなものです。迷惑な広告をブロックしたり、パスワードを保護したり、ブ"
-"ラウザーの外観を変更することもできます。"
+msgid "Download Firefox extensions and themes. They’re like apps for your browser. They can block annoying ads, protect passwords, change browser appearance, and more."
+msgstr "Firefox の拡張機能とテーマをダウンロードしましょう。これらはブラウザー用のアプリのようなものです。迷惑な広告をブロックしたり、パスワードを保護したり、ブラウザーの外観を変更することもできます。"
 
 #: src/amo/pages/Home/index.js:84
 msgid "Abstract"
@@ -3029,40 +2721,20 @@ msgid "See more top rated themes"
 msgstr "評価の高いテーマをもっと見る"
 
 #: src/amo/pages/LandingPage/index.js:205
-msgid ""
-"Download themes to change how Firefox looks. Tailor your experience to your "
-"tastes. Cute critters, evil robots, beautiful landscapes—thousands of "
-"options."
-msgstr ""
-"テーマをダウンロードして Firefox をドレスアップしましょう。あなたの好みに合わ"
-"せて、かわいい生き物、悪いロボット、美しい風景など数千ものテーマから選べま"
-"す。"
+msgid "Download themes to change how Firefox looks. Tailor your experience to your tastes. Cute critters, evil robots, beautiful landscapes—thousands of options."
+msgstr "テーマをダウンロードして Firefox をドレスアップしましょう。あなたの好みに合わせて、かわいい生き物、悪いロボット、美しい風景など数千ものテーマから選べます。"
 
 #: src/amo/pages/LandingPage/index.js:210
-msgid ""
-"Download Firefox Extensions to add features that customize browsing. Protect "
-"passwords, find deals, enhance video, and block annoying ads with browser "
-"apps."
-msgstr ""
-"Firefox の拡張機能をダウンロードしてブラウジングをカスタマイズする機能を追加"
-"しましょう。ブラウザーのアプリでパスワードを保護したり、お得な情報を見つけた"
-"り、動画の閲覧機能を追加したり、迷惑な広告をブロックしたりできます。"
+msgid "Download Firefox Extensions to add features that customize browsing. Protect passwords, find deals, enhance video, and block annoying ads with browser apps."
+msgstr "Firefox の拡張機能をダウンロードしてブラウジングをカスタマイズする機能を追加しましょう。ブラウザーのアプリでパスワードを保護したり、お得な情報を見つけたり、動画の閲覧機能を追加したり、迷惑な広告をブロックしたりできます。"
 
 #: src/amo/pages/LandingPage/index.js:232
-msgid ""
-"Change your browser's appearance. Choose from thousands of themes to give "
-"Firefox the look you want."
-msgstr ""
-"ブラウザーの見た目を変えてみましょう。何千種類ものテーマから好きなものを選ん"
-"で、Firefox のデザインを自分好みに設定できます。"
+msgid "Change your browser's appearance. Choose from thousands of themes to give Firefox the look you want."
+msgstr "ブラウザーの見た目を変えてみましょう。何千種類ものテーマから好きなものを選んで、Firefox のデザインを自分好みに設定できます。"
 
 #: src/amo/pages/LandingPage/index.js:234
-msgid ""
-"Explore powerful tools and features to customize Firefox and make the "
-"browser all your own."
-msgstr ""
-"Firefox をカスタマイズできる強力なツールや機能を見つけて、ブラウザーを完全に"
-"自分自身のものにしましょう。"
+msgid "Explore powerful tools and features to customize Firefox and make the browser all your own."
+msgstr "Firefox をカスタマイズできる強力なツールや機能を見つけて、ブラウザーを完全に自分自身のものにしましょう。"
 
 #: src/amo/pages/LandingPage/index.js:274
 msgid "Explore all categories"
@@ -3077,30 +2749,16 @@ msgid "Dictionaries and Language Packs"
 msgstr "スペルチェック辞書と言語パック"
 
 #: src/amo/pages/LanguageTools/index.js:155
-msgid ""
-"Download Firefox dictionaries and language pack extensions. Add a new "
-"language option to your browser spell-checker, or change the browser's "
-"interface language."
-msgstr ""
-"Firefox のスペルチェック辞書と言語パックをダウンロードしましょう。ブラウザー"
-"のスペルチェック機能に新しい言語オプションを追加します。または、ブラウザーの"
-"インターフェース言語を変更します。"
+msgid "Download Firefox dictionaries and language pack extensions. Add a new language option to your browser spell-checker, or change the browser's interface language."
+msgstr "Firefox のスペルチェック辞書と言語パックをダウンロードしましょう。ブラウザーのスペルチェック機能に新しい言語オプションを追加します。または、ブラウザーのインターフェース言語を変更します。"
 
 #: src/amo/pages/LanguageTools/index.js:166
-msgid ""
-"Installing a dictionary add-on will add a new language option to your spell-"
-"checker, which checks your spelling as you type in Firefox."
-msgstr ""
-"辞書アドオンをインストールすると、Firefox 上で文字入力中に綴りを確認できるス"
-"ペルチェッカーに新しい言語オプションを追加できます。"
+msgid "Installing a dictionary add-on will add a new language option to your spell-checker, which checks your spelling as you type in Firefox."
+msgstr "辞書アドオンをインストールすると、Firefox 上で文字入力中に綴りを確認できるスペルチェッカーに新しい言語オプションを追加できます。"
 
 #: src/amo/pages/LanguageTools/index.js:171
-msgid ""
-"Language packs change your browser's interface language, including menu "
-"options and settings."
-msgstr ""
-"言語パックは、メニュー項目や設定画面など、ブラウザーのインターフェイス言語を"
-"変更します。"
+msgid "Language packs change your browser's interface language, including menu options and settings."
+msgstr "言語パックは、メニュー項目や設定画面など、ブラウザーのインターフェイス言語を変更します。"
 
 #: src/amo/pages/LanguageTools/index.js:178
 msgid "All Locales"
@@ -3136,50 +2794,29 @@ msgstr "このレビューを違法もしくは不適切として報告する"
 
 #: src/amo/pages/StaticPages/About/index.js:119
 msgid ""
-"Want to interact with addons.mozilla.org (AMO) programmatically? Check out "
-"the %(startAddonsServerDocumentation)sAdd-ons Servers "
-"documentation%(endAddonsServerDocumentation)s for details about the APIs "
-"used by AMO and the %(startAddonsManager)sAdd-ons "
-"Manager%(endAddonsManager)s."
+"Want to interact with addons.mozilla.org (AMO) programmatically? Check out the %(startAddonsServerDocumentation)sAdd-ons Servers documentation%(endAddonsServerDocumentation)s for details about the "
+"APIs used by AMO and the %(startAddonsManager)sAdd-ons Manager%(endAddonsManager)s."
 msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:140
-msgid ""
-"If you want to contribute but are not quite as technical, there are still "
-"ways to help:"
-msgstr ""
-"何か貢献したいけれどあまり技術的な知識はないという場合も、協力方法はいくつか"
-"あります:"
+msgid "If you want to contribute but are not quite as technical, there are still ways to help:"
+msgstr "何か貢献したいけれどあまり技術的な知識はないという場合も、協力方法はいくつかあります:"
 
 #: src/amo/pages/StaticPages/About/index.js:149
 msgid "Participate in our %(startLink)sforum%(endLink)s."
 msgstr "私たちの %(startLink)sフォーラム%(endLink)s に参加してください。"
 
 #: src/amo/pages/StaticPages/About/index.js:162
-msgid ""
-"Leave feedback for your favorite add-ons. Add-on authors are more likely to "
-"improve their add-ons and create new ones when they know people appreciate "
-"their work."
-msgstr ""
-"お気に入りのアドオンにフィードバックを残してください。アドオン作者は、人々が"
-"自分の成果物を評価してくれていると分かると、既存のアドオンを改良したり、新し"
-"いものを作ったりする可能性が高まります。"
+msgid "Leave feedback for your favorite add-ons. Add-on authors are more likely to improve their add-ons and create new ones when they know people appreciate their work."
+msgstr "お気に入りのアドオンにフィードバックを残してください。アドオン作者は、人々が自分の成果物を評価してくれていると分かると、既存のアドオンを改良したり、新しいものを作ったりする可能性が高まります。"
 
 #: src/amo/pages/StaticPages/About/index.js:167
-msgid ""
-"Tell your friends and family that Firefox is a fast, secure browser that "
-"protects their privacy, and they can use add-ons to make it their own!"
-msgstr ""
-"Firefox が高速、安全なブラウザーで、プライバシーを守ってくれて、自由にカスタ"
-"マイズできるアドオンが使えることを、友達や家族に教えてあげてください。"
+msgid "Tell your friends and family that Firefox is a fast, secure browser that protects their privacy, and they can use add-ons to make it their own!"
+msgstr "Firefox が高速、安全なブラウザーで、プライバシーを守ってくれて、自由にカスタマイズできるアドオンが使えることを、友達や家族に教えてあげてください。"
 
 #: src/amo/pages/StaticPages/About/index.js:175
-msgid ""
-"To see more ways you can contribute to the add-on community, please visit "
-"our %(startLink)swiki%(endLink)s."
-msgstr ""
-"アドオンコミュニティに貢献する他の方法は、こちらの "
-"%(startLink)swiki%(endLink)s をご覧ください。"
+msgid "To see more ways you can contribute to the add-on community, please visit our %(startLink)swiki%(endLink)s."
+msgstr "アドオンコミュニティに貢献する他の方法は、こちらの %(startLink)swiki%(endLink)s をご覧ください。"
 
 #: src/amo/pages/StaticPages/About/index.js:189
 msgid "Report an issue"
@@ -3190,28 +2827,17 @@ msgid "About Firefox Add-ons"
 msgstr "Firefox Add-ons について"
 
 #: src/amo/pages/StaticPages/About/index.js:194
-msgid ""
-"If you find a problem with the site, we'd love to fix it. Please file an "
-"%(startIssueLink)sissue%(endIssueLink)s and include as much detail as "
-"possible."
+msgid "If you find a problem with the site, we'd love to fix it. Please file an %(startIssueLink)sissue%(endIssueLink)s and include as much detail as possible."
 msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:20
-msgid ""
-"The official Mozilla site for downloading Firefox extensions and themes. Add "
-"new features and change the browser’s appearance to customize your web "
-"experience."
-msgstr ""
-"Firefox の拡張機能とテーマがダウンロードできる Mozilla の公式サイトです。新し"
-"い機能を追加し、ブラウザーの外観を変更して、あなたのウェブ体験をカスタマイズ"
-"します。"
+msgid "The official Mozilla site for downloading Firefox extensions and themes. Add new features and change the browser’s appearance to customize your web experience."
+msgstr "Firefox の拡張機能とテーマがダウンロードできる Mozilla の公式サイトです。新しい機能を追加し、ブラウザーの外観を変更して、あなたのウェブ体験をカスタマイズします。"
 
 #: src/amo/pages/StaticPages/About/index.js:210
 msgid ""
-"To report a security vulnerability for an extension, even if it is not "
-"hosted on this site, please file an "
-"%(startSecIssueLink)sissue%(endSecIssueLink)s on Bugzilla. All security "
-"vulnerability reports are %(startLink)sconfidential%(endLink)s."
+"To report a security vulnerability for an extension, even if it is not hosted on this site, please file an %(startSecIssueLink)sissue%(endSecIssueLink)s on Bugzilla. All security vulnerability "
+"reports are %(startLink)sconfidential%(endLink)s."
 msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:230
@@ -3220,46 +2846,23 @@ msgstr "サポートを得る"
 
 #: src/amo/pages/StaticPages/About/index.js:235
 msgid ""
-"If you would like to learn more about how to manage add-ons in Firefox, or "
-"need to find general Firefox support, please visit "
-"%(startSUMOLink)sSupport%(endSUMOLink)s Mozilla. If you don't find an answer "
-"there, you can %(startForumLink)sask on our community forum%(endForumLink)s."
-msgstr ""
-"Firefox のアドオン管理方法について詳しく知りたい場合や、Firefox の一般的なサ"
-"ポートを求めている場合は、%(startSUMOLink)sMozilla Support%(endSUMOLink)s を"
-"訪れてください。そこで答えが見つからない場合は、%(startForumLink)sコミュニ"
-"ティフォーラムで質問する%(endForumLink)s こともできます。"
+"If you would like to learn more about how to manage add-ons in Firefox, or need to find general Firefox support, please visit %(startSUMOLink)sSupport%(endSUMOLink)s Mozilla. If you don't find an "
+"answer there, you can %(startForumLink)sask on our community forum%(endForumLink)s."
+msgstr "Firefox のアドオン管理方法について詳しく知りたい場合や、Firefox の一般的なサポートを求めている場合は、%(startSUMOLink)sMozilla Support%(endSUMOLink)s を訪れてください。そこで答えが見つからない場合は、%(startForumLink)sコミュニティフォーラムで質問する%(endForumLink)s こともできます。"
 
 #: src/amo/pages/StaticPages/About/index.js:256
-msgid ""
-"%(startLink)sInformation about how to contact Mozilla's add-ons team can be "
-"found here%(endLink)s."
-msgstr ""
-"%(startLink)sMozilla のアドオンチームへの連絡方法に関する情報はこちらにありま"
-"す%(endLink)s。"
+msgid "%(startLink)sInformation about how to contact Mozilla's add-ons team can be found here%(endLink)s."
+msgstr "%(startLink)sMozilla のアドオンチームへの連絡方法に関する情報はこちらにあります%(endLink)s。"
 
 #: src/amo/pages/StaticPages/About/index.js:27
 msgid ""
-"Addons.mozilla.org (AMO), is Mozilla's official site for discovering and "
-"installing add-ons for the Firefox browser. Add-ons help you modify and "
-"personalize your browsing experience by adding new features to Firefox, "
-"enhancing your interactions with Web content, and changing the way your "
-"browser looks."
-msgstr ""
-"addons.mozilla.org (AMO) は、Firefox ブラウザー向けのアドオンを見つけてインス"
-"トールできる Mozilla の公式サイトです。アドオンは、Firefox へ新たな機能を追加"
-"したり、ウェブコンテンツの操作性を向上させたり、ブラウザーの見た目を変えたり"
-"して、ブラウジング体験を変更しカスタマイズするのに役立ちます。"
+"Addons.mozilla.org (AMO), is Mozilla's official site for discovering and installing add-ons for the Firefox browser. Add-ons help you modify and personalize your browsing experience by adding new "
+"features to Firefox, enhancing your interactions with Web content, and changing the way your browser looks."
+msgstr "addons.mozilla.org (AMO) は、Firefox ブラウザー向けのアドオンを見つけてインストールできる Mozilla の公式サイトです。アドオンは、Firefox へ新たな機能を追加したり、ウェブコンテンツの操作性を向上させたり、ブラウザーの見た目を変えたりして、ブラウジング体験を変更しカスタマイズするのに役立ちます。"
 
 #: src/amo/pages/StaticPages/About/index.js:37
-msgid ""
-"If you are looking for add-ons for Thunderbird or SeaMonkey, please visit "
-"%(startTBLink)saddons.thunderbird.net%(endTBLink)s or %(startSMLink)saddons."
-"thunderbird.net/seamonkey%(endSMLink)s."
-msgstr ""
-"Thunderbird や SeaMonkey 向けのアドオンをお探しなら、%(startTBLink)saddons."
-"thunderbird.net%(endTBLink)s か %(startSMLink)saddons.thunderbird.net/"
-"seamonkey%(endSMLink)s を訪れてください。"
+msgid "If you are looking for add-ons for Thunderbird or SeaMonkey, please visit %(startTBLink)saddons.thunderbird.net%(endTBLink)s or %(startSMLink)saddons.thunderbird.net/seamonkey%(endSMLink)s."
+msgstr "Thunderbird や SeaMonkey 向けのアドオンをお探しなら、%(startTBLink)saddons.thunderbird.net%(endTBLink)s か %(startSMLink)saddons.thunderbird.net/seamonkey%(endSMLink)s を訪れてください。"
 
 #: src/amo/pages/StaticPages/About/index.js:54
 msgid "A community of creators"
@@ -3267,16 +2870,9 @@ msgstr "クリエイターのコミュニティ"
 
 #: src/amo/pages/StaticPages/About/index.js:56
 msgid ""
-"The add-ons listed here are created by thousands of developers and theme "
-"designers from all over the world, ranging from individual hobbyists to "
-"large corporations. Some add-ons listed on AMO have been automatically "
-"published and may be subject to review by a team of editors once publicly "
-"listed."
-msgstr ""
-"ここに掲載されたアドオンは、趣味でプログラムを書いている個人から大企業まで、"
-"世界中の多数の開発者やテーマデザイナーによって作られています。AMO に掲載され"
-"た一部のアドオンは自動的に公開され、一般公開後にエディターのチームによって審"
-"査の対象となる可能性もあります。"
+"The add-ons listed here are created by thousands of developers and theme designers from all over the world, ranging from individual hobbyists to large corporations. Some add-ons listed on AMO have "
+"been automatically published and may be subject to review by a team of editors once publicly listed."
+msgstr "ここに掲載されたアドオンは、趣味でプログラムを書いている個人から大企業まで、世界中の多数の開発者やテーマデザイナーによって作られています。AMO に掲載された一部のアドオンは自動的に公開され、一般公開後にエディターのチームによって審査の対象となる可能性もあります。"
 
 #: src/amo/pages/StaticPages/About/index.js:65
 msgid "Get involved"
@@ -3284,65 +2880,35 @@ msgstr "参加しよう"
 
 #: src/amo/pages/StaticPages/About/index.js:67
 msgid ""
-"Mozilla is a non-profit champion of the Internet, we build Firefox to help "
-"keep it healthy, open and accessible. Add-ons support user choice and "
-"customization in Firefox, and you can contribute in the following ways:"
-msgstr ""
-"Mozilla はインターネットの擁護者を自認する非営利法人で、それが健全で、広く開"
-"かれ、誰でも参加可能な場所であり続けるよう Firefox を開発しています。アドオン"
-"は Firefox におけるユーザーの選択肢やカスタマイズを支援するもので、あなたも以"
-"下のような方法で貢献できます。"
+"Mozilla is a non-profit champion of the Internet, we build Firefox to help keep it healthy, open and accessible. Add-ons support user choice and customization in Firefox, and you can contribute in "
+"the following ways:"
+msgstr "Mozilla はインターネットの擁護者を自認する非営利法人で、それが健全で、広く開かれ、誰でも参加可能な場所であり続けるよう Firefox を開発しています。アドオンは Firefox におけるユーザーの選択肢やカスタマイズを支援するもので、あなたも以下のような方法で貢献できます。"
 
 #: src/amo/pages/StaticPages/About/index.js:77
-msgid ""
-"%(startLink)sMake your own add-on%(endLink)s. We provide free hosting and "
-"update services and can help you reach a large audience of users."
-msgstr ""
-"%(startLink)s自分でアドオンを作ってみましょう%(endLink)s。私たちは無料のホス"
-"ティングと更新サービスを提供しており、あなたが大勢のユーザーへリーチできるよ"
-"う支援します。"
+msgid "%(startLink)sMake your own add-on%(endLink)s. We provide free hosting and update services and can help you reach a large audience of users."
+msgstr "%(startLink)s自分でアドオンを作ってみましょう%(endLink)s。私たちは無料のホスティングと更新サービスを提供しており、あなたが大勢のユーザーへリーチできるよう支援します。"
 
 #: src/amo/pages/StaticPages/About/index.js:93
 msgid ""
-"Help improve this website. It's open source, and you can file bugs and "
-"submit patches. You can get started with a %(startGoodFirstBugLink)sgood "
-"first bug%(endGoodFirstBugLink)s or view all open issues for AMO’s "
-"%(startAddonsServerRepoLink)sserver%(endAddonsServerRepoLink)s and "
-"%(startAddonsFrontendRepoLink)sfrontend%(endAddonsFrontendRepoLink)s on "
-"Github."
+"Help improve this website. It's open source, and you can file bugs and submit patches. You can get started with a %(startGoodFirstBugLink)sgood first bug%(endGoodFirstBugLink)s or view all open "
+"issues for AMO’s %(startAddonsServerRepoLink)sserver%(endAddonsServerRepoLink)s and %(startAddonsFrontendRepoLink)sfrontend%(endAddonsFrontendRepoLink)s on Github."
 msgstr ""
-"当サイトの改善に協力してください。オープンソースで、バグの報告やパッチの提供"
-"が可能です。%(startGoodFirstBugLink)s初めての人向けのバ"
-"グ%(endGoodFirstBugLink)s から始めるか、GitHub 上で AMO の "
-"%(startAddonsServerRepoLink)sサーバー%(endAddonsServerRepoLink)s や "
-"%(startAddonsFrontendRepoLink)sフロントエンド%(endAddonsFrontendRepoLink)s に"
-"関するすべての未解決バグを見ることもできます。"
+"当サイトの改善に協力してください。オープンソースで、バグの報告やパッチの提供が可能です。%(startGoodFirstBugLink)s初めての人向けのバグ%(endGoodFirstBugLink)s から始めるか、GitHub 上で AMO の %(startAddonsServerRepoLink)sサーバー%(endAddonsServerRepoLink)s や "
+"%(startAddonsFrontendRepoLink)sフロントエンド%(endAddonsFrontendRepoLink)s に関するすべての未解決バグを見ることもできます。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:101
-msgid ""
-"Include your own or anyone else’s email, phone number, or other personal "
-"details."
-msgstr ""
-"自分自身あるいは他人のメールアドレス、電話番号、その他の個人情報を書き込むこ"
-"と。"
+msgid "Include your own or anyone else’s email, phone number, or other personal details."
+msgstr "自分自身あるいは他人のメールアドレス、電話番号、その他の個人情報を書き込むこと。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:106
 msgid "Post reviews for an add-on you or your organization wrote or represent."
-msgstr ""
-"あなたまたはあなたが所属する組織が作成、提供するアドオンにレビューを投稿して"
-"はいけません。"
+msgstr "あなたまたはあなたが所属する組織が作成、提供するアドオンにレビューを投稿してはいけません。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:111
 msgid ""
-"Criticize an add-on for something it’s intended to do. For example, leaving "
-"a negative review of an add-on for displaying ads or requiring data "
-"gathering, when that is the intended purpose of the add-on, or the add-on "
-"requires gathering data to function."
-msgstr ""
-"アドオンが意図した動作についてそれを批判すること。例えば、広告を表示したり"
-"データ収集を求めたりするアドオンについて、それがそのアドオンの本来の目的であ"
-"るか、機能上データ収集を必要としたりするにも関わらず、その挙動を非難するレ"
-"ビューを残すこと。"
+"Criticize an add-on for something it’s intended to do. For example, leaving a negative review of an add-on for displaying ads or requiring data gathering, when that is the intended purpose of the "
+"add-on, or the add-on requires gathering data to function."
+msgstr "アドオンが意図した動作についてそれを批判すること。例えば、広告を表示したりデータ収集を求めたりするアドオンについて、それがそのアドオンの本来の目的であるか、機能上データ収集を必要としたりするにも関わらず、その挙動を非難するレビューを残すこと。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:120
 msgid "Frequently Asked Questions about Reviews"
@@ -3354,29 +2920,17 @@ msgstr "問題のあるレビューを報告するには？"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:124
 msgid ""
-"Please report or flag any questionable reviews by clicking the \"Report this "
-"review\" and it will be submitted to the site for moderation. Our moderation "
-"team will use the Review Guidelines to evaluate whether or not to delete the "
-"review or restore it back to the site."
-msgstr ""
-"疑わしいレビューを見つけた場合は、「このレビューを報告」をクリックして報告す"
-"るかフラグを立てることで、サイト管理者に通知してください。管理チームはレ"
-"ビューガイドラインを基準として、レビューを削除するかどうかや、再度公開するか"
-"どうかを判断します。"
+"Please report or flag any questionable reviews by clicking the \"Report this review\" and it will be submitted to the site for moderation. Our moderation team will use the Review Guidelines to "
+"evaluate whether or not to delete the review or restore it back to the site."
+msgstr "疑わしいレビューを見つけた場合は、「このレビューを報告」をクリックして報告するかフラグを立てることで、サイト管理者に通知してください。管理チームはレビューガイドラインを基準として、レビューを削除するかどうかや、再度公開するかどうかを判断します。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:131
 msgid "I'm an add-on author, can I respond to reviews?"
 msgstr "私はアドオンの作者ですが、レビューに返答できますか？"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:137
-msgid ""
-"Yes, add-on authors can provide a single response to a review. You can set "
-"up a discussion topic in our %(startLink)sforum%(endLink)s to engage in "
-"additional discussion or follow-up."
-msgstr ""
-"はい、アドオン作者は各レビューに対して 1 件の返信を残すことができます。ま"
-"た、%(startLink)sフォーラム%(endLink)s にトピックを立てて、さらに議論を進めた"
-"り追跡調査を行ったりすることもできます。"
+msgid "Yes, add-on authors can provide a single response to a review. You can set up a discussion topic in our %(startLink)sforum%(endLink)s to engage in additional discussion or follow-up."
+msgstr "はい、アドオン作者は各レビューに対して 1 件の返信を残すことができます。また、%(startLink)sフォーラム%(endLink)s にトピックを立てて、さらに議論を進めたり追跡調査を行ったりすることもできます。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:151
 msgid "I'm an add-on author, can I delete unfavorable reviews or ratings?"
@@ -3384,37 +2938,23 @@ msgstr "私はアドオンの作者ですが、気に入らないレビューや
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:156
 msgid ""
-"In general, no. But if the review did not meet the review guidelines "
-"outlined above, you can click \"Report this review\" and have it moderated. "
-"If a review included a complaint that is no longer valid due to a new "
-"release of your add-on, we may consider deleting the review."
-msgstr ""
-"通常はできません。ただし、レビューが上記のガイドラインに従っていない場合は、"
-"「このレビューを報告」をクリックして管理者に通知できます。アドオンの新バー"
-"ジョンが公開されたことで妥当性がなくなった苦情がレビューに含まれている場合"
-"は、そのレビューの削除を検討します。"
+"In general, no. But if the review did not meet the review guidelines outlined above, you can click \"Report this review\" and have it moderated. If a review included a complaint that is no longer "
+"valid due to a new release of your add-on, we may consider deleting the review."
+msgstr "通常はできません。ただし、レビューが上記のガイドラインに従っていない場合は、「このレビューを報告」をクリックして管理者に通知できます。アドオンの新バージョンが公開されたことで妥当性がなくなった苦情がレビューに含まれている場合は、そのレビューの削除を検討します。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:19
 msgid "Review Guidelines"
 msgstr "レビューガイドライン"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:20
-msgid ""
-"Guidelines, tips, and Frequently Asked Questions to leave a review for the "
-"extensions and themes you’ve downloaded and used on Firefox."
-msgstr ""
-"Firefox でダウンロードして使用した拡張機能やテーマのレビューコメントを残すた"
-"めの、ガイドライン、ヒント、よくある質問です。"
+msgid "Guidelines, tips, and Frequently Asked Questions to leave a review for the extensions and themes you’ve downloaded and used on Firefox."
+msgstr "Firefox でダウンロードして使用した拡張機能やテーマのレビューコメントを残すための、ガイドライン、ヒント、よくある質問です。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:28
 msgid ""
-"Add-on reviews are a way for you to share your opinions about the add-ons "
-"you’ve installed and used. Our review moderation team reserves the right to "
-"refuse or remove any review that does not comply with these guidelines."
-msgstr ""
-"アドオンのレビューは、自分でインストールして使ってみたアドオンに関する意見を"
-"共有する方法です。ただし、レビュー管理チームは、以下のガイドラインに従ってい"
-"ないレビューを拒否あるいは削除する権利を留保しています。"
+"Add-on reviews are a way for you to share your opinions about the add-ons you’ve installed and used. Our review moderation team reserves the right to refuse or remove any review that does not comply"
+" with these guidelines."
+msgstr "アドオンのレビューは、自分でインストールして使ってみたアドオンに関する意見を共有する方法です。ただし、レビュー管理チームは、以下のガイドラインに従っていないレビューを拒否あるいは削除する権利を留保しています。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:33
 msgid "Tips for writing a great review"
@@ -3425,8 +2965,7 @@ msgid "Do:"
 msgstr "良いレビュー:"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:37
-msgid ""
-"Write like you are telling a friend about your experience with the add-on."
+msgid "Write like you are telling a friend about your experience with the add-on."
 msgstr "このアドオンを使った感想を友人に伝えるように書きましょう。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:42
@@ -3458,8 +2997,7 @@ msgid "Will you continue to use this add-on?"
 msgstr "このアドオンを使い続けますか？"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:63
-msgid ""
-"Take a moment to read your review before submitting it to minimize typos."
+msgid "Take a moment to read your review before submitting it to minimize typos."
 msgstr "投稿前に入力ミスがないか自分のレビューを読み直してください。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:68
@@ -3468,45 +3006,29 @@ msgstr "悪いレビュー:"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:71
 msgid "Submit one-word reviews such as \"Great!\", \"wonderful,\" or \"bad\"."
-msgstr ""
-"「よかった！」「すばらしい」「よくなかった」 など、一言だけのレビュー。"
+msgstr "「よかった！」「すばらしい」「よくなかった」 など、一言だけのレビュー。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:76
 msgid ""
-"Post technical issues, support requests, or feature suggestions. Use the "
-"available support options for each add-on, if available. You can find them "
-"in the \"More information\" section in the sidebar on the add-on's detail "
-"page."
-msgstr ""
-"技術的な問題、サポートリクエスト、あるいは機能の提案を投稿すること。アドオン"
-"のサポートオプションが提供されている場合はそちらを利用してください。それらの"
-"リンクは、アドオン詳細ページ上のサイドバーにある「詳しい情報」の項目にありま"
-"す。"
+"Post technical issues, support requests, or feature suggestions. Use the available support options for each add-on, if available. You can find them in the \"More information\" section in the sidebar"
+" on the add-on's detail page."
+msgstr "技術的な問題、サポートリクエスト、あるいは機能の提案を投稿すること。アドオンのサポートオプションが提供されている場合はそちらを利用してください。それらのリンクは、アドオン詳細ページ上のサイドバーにある「詳しい情報」の項目にあります。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:81
 msgid "Write reviews for add-ons which you have not personally used."
 msgstr "自分で使ったのではないアドオンのレビューを書いてはいけません。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:86
-msgid ""
-"Use profanity, sexual language or language that can be construed as hateful."
-msgstr ""
-"冒涜、下品、性的な言葉や相手を傷つけるような言葉遣いをしてはいけません。"
+msgid "Use profanity, sexual language or language that can be construed as hateful."
+msgstr "冒涜、下品、性的な言葉や相手を傷つけるような言葉遣いをしてはいけません。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:91
-msgid ""
-"Include HTML, links, source code or code snippets. Reviews are meant to be "
-"text only."
-msgstr ""
-"HTML、リンク、ソースコードあるいはコードの一部を書き込むこと。レビューは文章"
-"のみとなります。"
+msgid "Include HTML, links, source code or code snippets. Reviews are meant to be text only."
+msgstr "HTML、リンク、ソースコードあるいはコードの一部を書き込むこと。レビューは文章のみとなります。"
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:96
-msgid ""
-"Make false statements, disparage add-on authors or personally insult them."
-msgstr ""
-"虚偽のレビューやアドオンの作者を貶す内容、個人的な辱める内容を書いてはいけま"
-"せん。"
+msgid "Make false statements, disparage add-on authors or personally insult them."
+msgstr "虚偽のレビューやアドオンの作者を貶す内容、個人的な辱める内容を書いてはいけません。"
 
 #: src/amo/pages/TagPage/index.js:43
 msgid "Add-ons tagged with %(tag)s"
@@ -3516,8 +3038,7 @@ msgstr "%(tag)s タグの付いたアドオン"
 msgid "Submit feedback or report a user to Mozilla"
 msgstr "ユーザーのフィードバックやレポートを Mozilla に送信"
 
-#: src/amo/pages/UserFeedback/index.js:144
-#: src/amo/pages/UserProfile/index.js:387
+#: src/amo/pages/UserFeedback/index.js:144 src/amo/pages/UserProfile/index.js:387
 msgid "User since"
 msgstr "ユーザー登録日"
 
@@ -3538,22 +3059,15 @@ msgid "My reviews"
 msgstr "自分のレビュー"
 
 #: src/amo/pages/UserProfile/index.js:270
-msgid ""
-"The profile of %(user)s, a Firefox extension and theme author. Find other "
-"apps by %(user)s, including average ratings, tenure, and the option to "
-"report issues."
+msgid "The profile of %(user)s, a Firefox extension and theme author. Find other apps by %(user)s, including average ratings, tenure, and the option to report issues."
 msgstr ""
 
 #: src/amo/pages/UserProfile/index.js:274
-msgid ""
-"The profile of %(user)s, Firefox extension author. Find other extensions by "
-"%(user)s, including average ratings, tenure, and the option to report issues."
+msgid "The profile of %(user)s, Firefox extension author. Find other extensions by %(user)s, including average ratings, tenure, and the option to report issues."
 msgstr ""
 
 #: src/amo/pages/UserProfile/index.js:278
-msgid ""
-"The profile of %(user)s, Firefox theme author. Find other themes by "
-"%(user)s, including average ratings, tenure, and the option to report issues."
+msgid "The profile of %(user)s, Firefox theme author. Find other themes by %(user)s, including average ratings, tenure, and the option to report issues."
 msgstr ""
 
 #: src/amo/pages/UserProfile/index.js:308
@@ -3568,8 +3082,7 @@ msgstr "アドオン開発者"
 msgid "Theme artist"
 msgstr "テーマアーティスト"
 
-#: src/amo/pages/UserProfile/index.js:335
-#: src/amo/pages/UserProfileEdit/index.js:551
+#: src/amo/pages/UserProfile/index.js:335 src/amo/pages/UserProfileEdit/index.js:551
 msgid "User Profile for %(user)s"
 msgstr "%(user)s のユーザープロフィール"
 
@@ -3577,8 +3090,7 @@ msgstr "%(user)s のユーザープロフィール"
 msgid "User Profile"
 msgstr "ユーザープロファイル"
 
-#: src/amo/pages/UserProfile/index.js:379
-#: src/amo/pages/UserProfileEdit/index.js:708
+#: src/amo/pages/UserProfile/index.js:379 src/amo/pages/UserProfileEdit/index.js:708
 msgid "Occupation"
 msgstr "職業"
 
@@ -3590,8 +3102,7 @@ msgstr "アドオンの数"
 msgid "Average rating of developer’s add-ons"
 msgstr "この開発者のアドオンの平均評価"
 
-#: src/amo/pages/UserProfile/index.js:415
-#: src/amo/pages/UserProfileEdit/index.js:730
+#: src/amo/pages/UserProfile/index.js:415 src/amo/pages/UserProfileEdit/index.js:730
 msgid "Biography"
 msgstr "経歴"
 
@@ -3609,21 +3120,12 @@ msgid "Picture successfully deleted"
 msgstr "写真の削除が完了しました"
 
 #: src/amo/pages/UserProfileEdit/index.js:459
-msgid ""
-"Tell users a bit more information about yourself. Most fields are optional, "
-"but they'll help other users get to know you better."
-msgstr ""
-"他のユーザーに、あなたについてのもう少し詳しい情報を伝えましょう。これらの項"
-"目は任意ですが、他のユーザがあなたを知る手掛かりとなるでしょう。"
+msgid "Tell users a bit more information about yourself. Most fields are optional, but they'll help other users get to know you better."
+msgstr "他のユーザーに、あなたについてのもう少し詳しい情報を伝えましょう。これらの項目は任意ですが、他のユーザがあなたを知る手掛かりとなるでしょう。"
 
 #: src/amo/pages/UserProfileEdit/index.js:463
-msgid ""
-"Tell users a bit more information about this user. Most fields are optional, "
-"but they'll help other users get to know %(userName)s better."
-msgstr ""
-"他のユーザーに、このユーザーについてのもう少し詳しい情報を伝えましょう。これ"
-"らの項目は任意ですが、他のユーザが %(userName)s さんを知る手掛かりとなるで"
-"しょう。"
+msgid "Tell users a bit more information about this user. Most fields are optional, but they'll help other users get to know %(userName)s better."
+msgstr "他のユーザーに、このユーザーについてのもう少し詳しい情報を伝えましょう。これらの項目は任意ですが、他のユーザが %(userName)s さんを知る手掛かりとなるでしょう。"
 
 #: src/amo/pages/UserProfileEdit/index.js:478
 msgid "Introduce yourself to the community if you like"
@@ -3686,9 +3188,7 @@ msgid "Email address cannot be changed here"
 msgstr "メールアドレスはここでは変更できません"
 
 #: src/amo/pages/UserProfileEdit/index.js:615
-msgid ""
-"You can change your email address on Mozilla accounts. %(startLink)sNeed "
-"help?%(endLink)s"
+msgid "You can change your email address on Mozilla accounts. %(startLink)sNeed help?%(endLink)s"
 msgstr ""
 
 #: src/amo/pages/UserProfileEdit/index.js:634
@@ -3721,37 +3221,22 @@ msgid "Notifications"
 msgstr "通知"
 
 #: src/amo/pages/UserProfileEdit/index.js:773
-msgid ""
-"From time to time, Mozilla may send you email about upcoming releases and "
-"add-on events. Please select the topics you are interested in."
-msgstr ""
-"Mozilla では時々、今後のリリースやアドオン関連のイベントに関するメールをお送"
-"りしています。興味のあるトピックを選択してください。"
+msgid "From time to time, Mozilla may send you email about upcoming releases and add-on events. Please select the topics you are interested in."
+msgstr "Mozilla では時々、今後のリリースやアドオン関連のイベントに関するメールをお送りしています。興味のあるトピックを選択してください。"
 
 #: src/amo/pages/UserProfileEdit/index.js:778
-msgid ""
-"From time to time, Mozilla may send this user email about upcoming releases "
-"and add-on events. Please select the topics this user may be interested in."
-msgstr ""
-"Mozilla では時々、今後のリリースやアドオン関連のイベントに関するメールをこの"
-"ユーザーへお送りしています。このユーザーが興味があると思われるトピックを選択"
-"してください。"
+msgid "From time to time, Mozilla may send this user email about upcoming releases and add-on events. Please select the topics this user may be interested in."
+msgstr "Mozilla では時々、今後のリリースやアドオン関連のイベントに関するメールをこのユーザーへお送りしています。このユーザーが興味があると思われるトピックを選択してください。"
 
 #: src/amo/pages/UserProfileEdit/index.js:793
-msgid ""
-"Mozilla reserves the right to contact you individually about specific "
-"concerns with your hosted add-ons."
-msgstr ""
-"Mozilla は、このサイトで登録されたアドオンに関する具体的な事柄について、あな"
-"たに個別に連絡を取る権利を留保します。"
+msgid "Mozilla reserves the right to contact you individually about specific concerns with your hosted add-ons."
+msgstr "Mozilla は、このサイトで登録されたアドオンに関する具体的な事柄について、あなたに個別に連絡を取る権利を留保します。"
 
-#: src/amo/pages/UserProfileEdit/index.js:819
-#: src/amo/pages/UserProfileEdit/index.js:891
+#: src/amo/pages/UserProfileEdit/index.js:819 src/amo/pages/UserProfileEdit/index.js:891
 msgid "Delete My Profile"
 msgstr "自分のプロファイルを削除"
 
-#: src/amo/pages/UserProfileEdit/index.js:820
-#: src/amo/pages/UserProfileEdit/index.js:892
+#: src/amo/pages/UserProfileEdit/index.js:820 src/amo/pages/UserProfileEdit/index.js:892
 msgid "Delete Profile"
 msgstr "プロファイルを削除"
 
@@ -3765,47 +3250,30 @@ msgstr "重要: この Firefox Add-ons プロファイルの削除は元に戻�
 
 #: src/amo/pages/UserProfileEdit/index.js:844
 msgid ""
-"Your data will be permanently removed, including profile details (picture, "
-"user name, display name, location, home page, biography, occupation), "
-"notification preferences, reviews, and collections."
-msgstr ""
-"プロファイル情報 (写真、ユーザー名、表示名、所在地、ホームページ、経歴、職"
-"業) や通知設定、レビューコメント、コレクションを含め、あなたのデータは永久に"
-"削除されます。"
+"Your data will be permanently removed, including profile details (picture, user name, display name, location, home page, biography, occupation), notification preferences, reviews, and collections."
+msgstr "プロファイル情報 (写真、ユーザー名、表示名、所在地、ホームページ、経歴、職業) や通知設定、レビューコメント、コレクションを含め、あなたのデータは永久に削除されます。"
 
 #: src/amo/pages/UserProfileEdit/index.js:850
 msgid ""
-"The user’s data will be permanently removed, including profile details "
-"(picture, user name, display name, location, home page, biography, "
-"occupation), notification preferences, reviews, and collections."
-msgstr ""
-"プロファイル情報 (写真、ユーザー名、表示名、所在地、ホームページ、経歴、職"
-"業) や通知設定、レビューコメント、コレクションを含め、このユーザーのデータは"
-"永久に削除されます。"
+"The user’s data will be permanently removed, including profile details (picture, user name, display name, location, home page, biography, occupation), notification preferences, reviews, and "
+"collections."
+msgstr "プロファイル情報 (写真、ユーザー名、表示名、所在地、ホームページ、経歴、職業) や通知設定、レビューコメント、コレクションを含め、このユーザーのデータは永久に削除されます。"
 
 #: src/amo/pages/UserProfileEdit/index.js:859
 msgid ""
-"If you authored any add-ons they will also be deleted, unless you share "
-"ownership with other authors. In that case, you will be removed as an author "
-"and the remaining authors will maintain ownership of the add-on."
+"If you authored any add-ons they will also be deleted, unless you share ownership with other authors. In that case, you will be removed as an author and the remaining authors will maintain ownership"
+" of the add-on."
 msgstr ""
 
 #: src/amo/pages/UserProfileEdit/index.js:865
 msgid ""
-"If the user authored any add-ons they will also be deleted, unless ownership "
-"is shared with other authors. In that case, the user will be removed as an "
-"author and the remaining authors will maintain ownership of the add-on."
+"If the user authored any add-ons they will also be deleted, unless ownership is shared with other authors. In that case, the user will be removed as an author and the remaining authors will maintain"
+" ownership of the add-on."
 msgstr ""
 
 #: src/amo/pages/UserProfileEdit/index.js:875
-msgid ""
-"When you use this email address to log in again to addons.mozilla.org, your "
-"profile on Firefox Add-ons will not have access to any of its previous "
-"content."
-msgstr ""
-"このメールアドレスを使って addons.mozilla.org に再度ログインする場合、"
-"Firefox Add-ons サイトのプロファイルから以前のコンテンツにアクセスできなくな"
-"ります。"
+msgid "When you use this email address to log in again to addons.mozilla.org, your profile on Firefox Add-ons will not have access to any of its previous content."
+msgstr "このメールアドレスを使って addons.mozilla.org に再度ログインする場合、Firefox Add-ons サイトのプロファイルから以前のコンテンツにアクセスできなくなります。"
 
 #: src/amo/pages/UsersUnsubscribe/index.js:103
 msgid "Unsubscribe"
@@ -3817,20 +3285,12 @@ msgstr "購読の解除が完了しました。"
 
 #. a list of notifications will be displayed under this prompt.
 #: src/amo/pages/UsersUnsubscribe/index.js:125
-msgid ""
-"The email address %(strongStart)s%(email)s%(strongEnd)s will no longer get "
-"messages when:"
-msgstr ""
-"このメールアドレス %(strongStart)s%(email)s%(strongEnd)s には以下の通知が送ら"
-"れなくなります:"
+msgid "The email address %(strongStart)s%(email)s%(strongEnd)s will no longer get messages when:"
+msgstr "このメールアドレス %(strongStart)s%(email)s%(strongEnd)s には以下の通知が送られなくなります:"
 
 #: src/amo/pages/UsersUnsubscribe/index.js:83
-msgid ""
-"You can edit your notification settings by %(linkStart)sediting your "
-"profile%(linkEnd)s."
-msgstr ""
-"%(linkStart)sユーザープロファイルを編集%(linkEnd)s して通知設定を変更してくだ"
-"さい。"
+msgid "You can edit your notification settings by %(linkStart)sediting your profile%(linkEnd)s."
+msgstr "%(linkStart)sユーザープロファイルを編集%(linkEnd)s して通知設定を変更してください。"
 
 #: src/amo/reducers/collections.js:1022
 msgid "(no name)"
@@ -3876,12 +3336,8 @@ msgid "An unexpected error occurred."
 msgstr "予期せぬエラーが発生しました。"
 
 #: src/amo/utils/notifications.js:10
-msgid ""
-"stay up-to-date with news and events relevant to add-on developers "
-"(including the about:addons newsletter)"
-msgstr ""
-"アドオン開発者向けのニュースやイベントを含む最新情報を購読しましょう (about:"
-"addons ニュースレターなど)"
+msgid "stay up-to-date with news and events relevant to add-on developers (including the about:addons newsletter)"
+msgstr "アドオン開発者向けのニュースやイベントを含む最新情報を購読しましょう (about:addons ニュースレターなど)"
 
 #: src/amo/utils/notifications.js:13
 msgid "Mozilla needs to contact me about my individual add-on"
@@ -3912,27 +3368,9 @@ msgid "my add-on's compatibility is upgraded successfully"
 msgstr "あなたのアドオンの互換性が更新されました"
 
 #: src/amo/utils/promoted.js:40
-msgid ""
-"Official add-on built by Mozilla Firefox. Meets security and performance "
-"standards."
-msgstr ""
-"Mozilla Firefox により制作された公式アドオンです。安全性とパフォーマンスの基"
-"準に適合します。"
+msgid "Official add-on built by Mozilla Firefox. Meets security and performance standards."
+msgstr "Mozilla Firefox により制作された公式アドオンです。安全性とパフォーマンスの基準に適合します。"
 
 #: src/amo/utils/promoted.js:50
-msgid ""
-"Firefox only recommends add-ons that meet our standards for security and "
-"performance."
-msgstr ""
-"Firefox は、セキュリティとパフォーマンスの基準を満たすアドオンのみを推奨しま"
-"す。"
-
-#~ msgid ""
-#~ "To use Android extensions, you'll need %(downloadLinkStart)sFirefox for "
-#~ "Android%(downloadLinkEnd)s. To explore Firefox for desktop add-ons, "
-#~ "please %(linkStart)svisit our desktop site%(linkEnd)s."
-#~ msgstr ""
-#~ "Android 拡張機能を使用するには、%(downloadLinkStart)sAndroid 版 "
-#~ "Firefox%(downloadLinkEnd)s が必要です。デスクトップ版 Firefox のアドオンを"
-#~ "探すには、%(linkStart)sデスクトップサイト%(linkEnd)s にアクセスしてくださ"
-#~ "い。"
+msgid "Firefox only recommends add-ons that meet our standards for security and performance."
+msgstr "Firefox は、セキュリティとパフォーマンスの基準を満たすアドオンのみを推奨します。"
