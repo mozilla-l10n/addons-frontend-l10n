@@ -590,7 +590,7 @@ msgstr "ورود"
 
 #: src/amo/components/AutoSearchInput/index.js:198
 msgid "Loading"
-msgstr "در حال بارگیری"
+msgstr "در حال بارگذاری"
 
 #: src/amo/components/AutoSearchInput/index.js:298
 msgid "Find add-ons"
@@ -690,7 +690,7 @@ msgstr "تایید"
 
 #: src/amo/components/ContributeCard/index.js:130
 msgid "Contribute now"
-msgstr "هم‌اکنون مشارکت کنید"
+msgstr "اکنون مشارکت کنید"
 
 #: src/amo/components/ContributeCard/index.js:57
 msgid "Support this developer"
@@ -726,7 +726,7 @@ msgstr "هنرمندان این پوسته از شما درخواست می‌ک�
 
 #: src/amo/components/ContributeCard/index.js:85
 msgid "Support this author"
-msgstr "از این مؤلف پشتیبانی کنید"
+msgstr "از این توسعه‌دهنده پشتیبانی کنید"
 
 #: src/amo/components/ContributeCard/index.js:86
 msgid "Support these authors"
@@ -758,7 +758,7 @@ msgstr "ارسال"
 
 #: src/amo/components/DismissibleTextForm/index.js:202
 msgid "Submitting"
-msgstr "در حال ثبت"
+msgstr "در حال ارسال"
 
 #: src/amo/components/EditableCollectionAddon/index.js:132 src/amo/components/EditableCollectionAddon/index.js:150
 msgid "Leave a note"
