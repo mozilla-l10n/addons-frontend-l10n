@@ -87,15 +87,15 @@ msgstr "آزمایشی"
 
 #: src/amo/components/AddonBadges/index.js:92
 msgid "Some features may require payment"
-msgstr "بعضی از امکانات نیازمند پرداخت هستند"
+msgstr "شاید برخی ویژگی‌ها نیازمند پرداخت باشند"
 
 #: src/amo/components/AddonCompatibilityError/index.js:91
 msgid "This add-on is not compatible with your version of Firefox."
-msgstr "این افزونه با نسخهٔ فعلی فایرفاکس شما سازگار نیست."
+msgstr "این افزونه با نسخه کنونی فایرفاکس شما سازگار نیست."
 
 #: src/amo/components/AddonCompatibilityError/index.js:93
 msgid "This add-on is not available on your platform."
-msgstr "این افزونه با پلتفرم شما سازگار نیست."
+msgstr "این افزونه در پلتفرم شما در دسترس نیست."
 
 #: src/amo/components/AddonFeedbackForm/index.js:148 src/amo/components/SearchResult/index.js:249
 msgid "%(total)s user"
@@ -183,7 +183,7 @@ msgstr "ایمیلٔ پشتیبانی"
 
 #: src/amo/components/AddonMoreInfo/index.js:204
 msgid "Visit stats dashboard"
-msgstr "مشاهدهٔ داشبورد آمارها"
+msgstr "دیدن داشبورد آمارها"
 
 #: src/amo/components/AddonMoreInfo/index.js:242
 msgid "Custom License"
@@ -204,7 +204,7 @@ msgstr "موافقت‌نامه مجوز برای این افزونه را بخ�
 
 #: src/amo/components/AddonMoreInfo/index.js:329
 msgid "See all versions"
-msgstr "نمایش تمام نسخه‌ها"
+msgstr "نمایش همه نسخه‌ها"
 
 #: src/amo/components/AddonMoreInfo/index.js:385
 msgid "Add-on Links"
