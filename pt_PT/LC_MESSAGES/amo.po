@@ -702,11 +702,11 @@ msgstr "Apoie estes programadores"
 
 #: src/amo/components/ContributeCard/index.js:62
 msgid "The developer of this extension asks that you help support its continued development by making a small contribution."
-msgstr "O programador desta extensão pede que apoie o desenvolvimento da mesma através de um pequeno donativo."
+msgstr "O programador desta extensão pede que apoie o desenvolvimento da mesma através de uma pequena doação."
 
 #: src/amo/components/ContributeCard/index.js:64
 msgid "The developers of this extension ask that you help support its continued development by making a small contribution."
-msgstr "Os programadores desta extensão pedem que apoie o desenvolvimento da mesma através de um pequeno donativo."
+msgstr "Os programadores desta extensão pedem que apoie o desenvolvimento da mesma através de uma pequena doação."
 
 #: src/amo/components/ContributeCard/index.js:71
 msgid "Support this artist"
@@ -718,11 +718,11 @@ msgstr "Apoie estes artistas"
 
 #: src/amo/components/ContributeCard/index.js:76
 msgid "The artist of this theme asks that you help support its continued creation by making a small contribution."
-msgstr "O artista deste tema pede que apoie o desenvolvimento do mesmo através de um pequeno donativo."
+msgstr "O artista deste tema pede que apoie o desenvolvimento do mesmo através de uma pequena doação."
 
 #: src/amo/components/ContributeCard/index.js:78
 msgid "The artists of this theme ask that you help support its continued creation by making a small contribution."
-msgstr "Os artistas deste tema pedem que apoie o desenvolvimento do mesmo através de um pequeno donativo."
+msgstr "Os artistas deste tema pedem que apoie o desenvolvimento do mesmo através de uma pequena doação."
 
 #: src/amo/components/ContributeCard/index.js:85
 msgid "Support this author"
@@ -734,11 +734,11 @@ msgstr "Apoie estes autores"
 
 #: src/amo/components/ContributeCard/index.js:90
 msgid "The author of this add-on asks that you help support its continued work by making a small contribution."
-msgstr "O autor deste complemento pede que apoie o desenvolvimento do mesmo através de um pequeno donativo."
+msgstr "O autor deste complemento pede que apoie o desenvolvimento do mesmo através de uma pequena doação."
 
 #: src/amo/components/ContributeCard/index.js:92
 msgid "The authors of this add-on ask that you help support its continued work by making a small contribution."
-msgstr "Os autores deste complemento pedem que apoie o desenvolvimento do mesmo através de um pequeno donativo."
+msgstr "Os autores deste complemento pedem que apoie o desenvolvimento do mesmo através de uma pequena doação."
 
 #: src/amo/components/CopyAddonId/index.js:40
 msgid "Add-on ID copied"
