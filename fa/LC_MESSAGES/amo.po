@@ -481,7 +481,7 @@ msgstr "افزونه‌های بیشتر توسط این توسعه‌دهندگ
 
 #: src/amo/components/AddonSummaryCard/index.js:52
 msgid "Add-on icon"
-msgstr "آیکون افزونه"
+msgstr "نقشک برافزا"
 
 #. roundedAverage is a number rounded to one digit, such as 4.5 in English or ٤٫٧ in Arabic.
 #: src/amo/components/AddonSummaryCard/index.js:78
