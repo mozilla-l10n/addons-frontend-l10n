@@ -272,11 +272,11 @@ msgstr ""
 
 #: src/amo/components/AddonRecommendations/index.js:140
 msgid "Other popular extensions"
-msgstr ""
+msgstr "Басқа танымал кеңейтулер"
 
 #: src/amo/components/AddonReportAbuseLink/index.js:40
 msgid "You reported this add-on"
-msgstr ""
+msgstr "Сіз бұл қосымша туралы шағым түсірдіңіз"
 
 #: src/amo/components/AddonReportAbuseLink/index.js:44
 msgid "We have received your report. Thanks for letting us know about your concerns with this add-on."
