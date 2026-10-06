@@ -832,7 +832,7 @@ msgid ""
 "%(extensionStart)sextensions%(extensionEnd)s or %(themeStart)sthemes%(themeEnd)s, or by asking for help on our %(communityStart)scommunity forums%(communityEnd)s."
 msgstr ""
 "سعی کنید بعداً دوباره از صفحه دیدن کنید، زیرا ممکن است پوسته یا افزونه دوباره در دسترس قرار گیرد. به‌عنوان جایگزین، ممکن است بتوانید آنچه را که به دنبال آن هستید در یکی از "
-"%(extensionStart)sافزونه‌ها%(extensionEnd)s یا %(themeStart)sپوسته‌های%(themeEnd)s موجود پیدا کنید، یا با درخواست کمک در %(communityStart)sانجمن‌های کاربری%(communityEnd)s ما آن را بیابید."
+"%(extensionStart)sافزونه‌ها%(extensionEnd)s یا %(themeStart)sپوسته‌های%(themeEnd)s موجود پیدا کنید، یا با درخواست کمک در %(communityStart)sانجمن‌های اجتماع%(communityEnd)s ما آن را بیابید."
 
 #: src/amo/components/Errors/NotFound/index.js:78
 msgid "Oops! We can’t find that page"
@@ -876,7 +876,7 @@ msgid ""
 "%(communityStart)scommunity forums%(communityEnd)s."
 msgstr ""
 "ممکن است بتوانید آنچه را که به دنبال آن هستید در یکی از %(extensionStart)sافزونه‌ها%(extensionEnd)s یا %(themeStart)sپوسته‌های%(themeEnd)s موجود پیدا کنید، یا با درخواست کمک در "
-"%(communityStart)sانجمن‌های کاربری%(communityEnd)s ما آن را بیابید."
+"%(communityStart)sانجمن‌های اجتماع%(communityEnd)s ما آن را بیابید."
 
 #: src/amo/components/Errors/UnavailableForLegalReasons/index.js:76
 msgid "That page is not available in your region"
@@ -1356,7 +1356,7 @@ msgstr "سیاست‌های توسعه‌دهنده"
 
 #: src/amo/components/Footer/index.js:135
 msgid "Community Blog"
-msgstr "وبلاگ انجمن"
+msgstr "وبلاگ اجتماع"
 
 #: src/amo/components/Footer/index.js:140
 msgid "Forum"
@@ -1384,7 +1384,7 @@ msgstr "فایرفاکس برای کسب‌وکار"
 
 #: src/amo/components/Footer/index.js:263
 msgid "Community"
-msgstr "انجمن"
+msgstr "اجتماع"
 
 #: src/amo/components/Footer/index.js:293
 msgid "Follow"
@@ -2866,7 +2866,7 @@ msgstr "به دوستان و خانواده خود بگویید که فایرف�
 
 #: src/amo/pages/StaticPages/About/index.js:175
 msgid "To see more ways you can contribute to the add-on community, please visit our %(startLink)swiki%(endLink)s."
-msgstr "برای مشاهده راه‌های بیشتر جهت مشارکت در جامعه افزونه‌ها، لطفاً از %(startLink)sویکی%(endLink)s ما دیدن کنید."
+msgstr "برای مشاهده راه‌های بیشتر جهت مشارکت در اجتماع برافزاها، لطفاً از %(startLink)sویکی%(endLink)s ما دیدن کنید."
 
 #: src/amo/pages/StaticPages/About/index.js:189
 msgid "Report an issue"
@@ -2901,8 +2901,8 @@ msgid ""
 "If you would like to learn more about how to manage add-ons in Firefox, or need to find general Firefox support, please visit %(startSUMOLink)sSupport%(endSUMOLink)s Mozilla. If you don't find an "
 "answer there, you can %(startForumLink)sask on our community forum%(endForumLink)s."
 msgstr ""
-"اگر می‌خواهید درباره نحوه مدیریت افزونه‌ها در فایرفاکس بیشتر بدانید، یا به پشتیبانی عمومی فایرفاکس نیاز دارید، لطفاً از %(startSUMOLink)sپشتیبانی موزیلا%(endSUMOLink)s دیدن کنید. اگر پاسخ خود را "
-"آنجا پیدا نکردید، می‌توانید %(startForumLink)sدر انجمن کاربری ما بپرسید%(endForumLink)s."
+"اگر می‌خواهید درباره نحوه مدیریت برافزاها در Firefox بیشتر بدانید، یا به پشتیبانی عمومی Firefox نیاز دارید، لطفاً از %(startSUMOLink)sپشتیبانی Mozilla%(endSUMOLink)s دیدن کنید. اگر پاسخ خود را آنجا "
+"پیدا نکردید، می‌توانید %(startForumLink)sدر انجمن اجتماع ما بپرسید%(endForumLink)s."
 
 #: src/amo/pages/StaticPages/About/index.js:256
 msgid "%(startLink)sInformation about how to contact Mozilla's add-ons team can be found here%(endLink)s."
@@ -2924,7 +2924,7 @@ msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:54
 msgid "A community of creators"
-msgstr "جامعه‌ای از سازندگان"
+msgstr "اجتماع‌ای از سازندگان"
 
 #: src/amo/pages/StaticPages/About/index.js:56
 msgid ""
@@ -3202,11 +3202,11 @@ msgstr "اطلاعات بیشتری درباره این کاربر ارائه د
 
 #: src/amo/pages/UserProfileEdit/index.js:476
 msgid "Introduce yourself to the community if you like"
-msgstr "در صورت تمایل خود را به جامعه کاربری معرفی کنید"
+msgstr "در صورت تمایل خود را به اجتماع معرفی کنید"
 
 #: src/amo/pages/UserProfileEdit/index.js:477
 msgid "Introduce %(userName)s to the community"
-msgstr "معرفی %(userName)s به جامعه کاربری"
+msgstr "معرفی %(userName)s به اجتماع"
 
 #: src/amo/pages/UserProfileEdit/index.js:503
 msgid "Log in to edit the profile"
