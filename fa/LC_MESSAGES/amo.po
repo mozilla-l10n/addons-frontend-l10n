@@ -1396,7 +1396,7 @@ msgstr "حریم‌خصوصی"
 
 #: src/amo/components/Footer/index.js:356
 msgid "Cookies"
-msgstr "کوکی‌ها"
+msgstr "کلوچک‌ها"
 
 #: src/amo/components/Footer/index.js:364
 msgid "Legal"
