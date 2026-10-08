@@ -523,7 +523,7 @@ msgstr ""
 
 #: src/amo/components/AMInstallButton/index.js:133
 msgid "Enable"
-msgstr ""
+msgstr "Іске қосу"
 
 #: src/amo/components/AMInstallButton/index.js:136 src/amo/components/EditableCollectionAddon/index.js:142
 msgid "Remove"
