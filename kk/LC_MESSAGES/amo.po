@@ -226,15 +226,15 @@ msgstr ""
 
 #: src/amo/components/AddonMoreInfo/index.js:432
 msgid "License"
-msgstr ""
+msgstr "Лицензия"
 
 #: src/amo/components/AddonMoreInfo/index.js:440
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Жекелік саясаты"
 
 #: src/amo/components/AddonMoreInfo/index.js:448
 msgid "End-User License Agreement"
-msgstr ""
+msgstr "Түпкі пайдаланушының лицензиялық келісімі"
 
 #: src/amo/components/AddonMoreInfo/index.js:456
 msgid "Version History"
