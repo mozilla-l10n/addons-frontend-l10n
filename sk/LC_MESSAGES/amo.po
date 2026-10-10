@@ -1737,7 +1737,7 @@ msgstr "Vyhľadávané výrazy"
 
 #: src/amo/components/PermissionsCard/permissions.js:79
 msgid "Technical and interaction data"
-msgstr "Technické údaje a údaje o interakciách"
+msgstr "Technické údaje a údaje o používaní"
 
 #: src/amo/components/PermissionsCard/permissions.js:80
 msgid "Website activity"
