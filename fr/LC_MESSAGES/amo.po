@@ -2580,7 +2580,7 @@ msgid ""
 "general use to protect Firefox users. For more information, please read %(supportStartLink)sthis support article%(supportEndLink)s."
 msgstr ""
 "Lorsque l’auteur supprime son module complémentaire, celui-ci n’est plus maintenu ni mis à jour, ce qui pourrait compromettre la sécurité, la stabilité ou les performances de Firefox. Pour éviter "
-"cela, l‘utilisation du module complémentaire est restreinte afin de protéger les utilisateurs·trices de Firefox. Pour en savoir plus, veuillez consulter %(supportStartLink)scet article "
+"cela, l’utilisation du module complémentaire est restreinte afin de protéger les utilisateurs·trices de Firefox. Pour en savoir plus, veuillez consulter %(supportStartLink)scet article "
 "d’assistance%(supportEndLink)s."
 
 #: src/amo/pages/Block/index.js:263
