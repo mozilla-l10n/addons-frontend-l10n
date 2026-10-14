@@ -1593,7 +1593,7 @@ msgstr "Voliteľný zber údajov podľa vývojára:"
 
 #: src/amo/components/PermissionsCard/index.js:77
 msgid "Data collection:"
-msgstr "Zber údajov:"
+msgstr "Zhromažďovanie údajov:"
 
 #: src/amo/components/PermissionsCard/index.js:78
 msgid "Required data collection, according to the developer:"
