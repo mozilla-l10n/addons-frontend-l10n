@@ -1417,7 +1417,7 @@ msgstr "需要%(downloadLinkStart)s下载 Firefox%(downloadLinkEnd)s 才能使�
 
 #: src/amo/components/GetFirefoxBanner/index.js:109
 msgid "To use Android extensions, you'll need %(downloadLinkStart)sFirefox for Android%(downloadLinkEnd)s."
-msgstr ""
+msgstr "需要 %(downloadLinkStart)sAndroid 版 Firefox%(downloadLinkEnd)s 才能使用 Android 版附加组件。"
 
 #: src/amo/components/GetFirefoxButton/index.js:153
 msgid "Download Firefox and get the theme"
