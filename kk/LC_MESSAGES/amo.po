@@ -74,40 +74,40 @@ msgstr[0] ""
 
 #: src/amo/components/AddonBadges/index.js:176
 msgid "No Users"
-msgstr ""
+msgstr "Пайдаланушылар жоқ"
 
 #: src/amo/components/AddonBadges/index.js:60
 msgid "Available on Firefox for Android™"
-msgstr ""
+msgstr "Firefox for Android™ үшін қолжетімді"
 
 #: src/amo/components/AddonBadges/index.js:76
 msgid "Experimental"
-msgstr ""
+msgstr "Сынамалы"
 
 #: src/amo/components/AddonBadges/index.js:92
 msgid "Some features may require payment"
-msgstr ""
+msgstr "Кейбір мүмкіндіктер ақылы болуы мүмкін"
 
 #: src/amo/components/AddonCompatibilityError/index.js:91
 msgid "This add-on is not compatible with your version of Firefox."
-msgstr ""
+msgstr "Бұл қосымша сіздің Firefox нұсқаңызбен үйлесімді емес."
 
 #: src/amo/components/AddonCompatibilityError/index.js:93
 msgid "This add-on is not available on your platform."
-msgstr ""
+msgstr "Бұл қосымша платформаңыз үшін қолжетімді емес."
 
 #: src/amo/components/AddonFeedbackForm/index.js:148 src/amo/components/SearchResult/index.js:249
 msgid "%(total)s user"
 msgid_plural "%(total)s users"
-msgstr[0] ""
+msgstr[0] "%(total)s пайдаланушы"
 
 #: src/amo/components/AddonFeedbackForm/index.js:209
 msgid "Report this add-on to Mozilla"
-msgstr ""
+msgstr "Бұл қосымша жөнінде Mozilla-ға шағым түсіру"
 
 #: src/amo/components/AddonFeedbackForm/index.js:210
 msgid "Send some feedback about the add-on"
-msgstr ""
+msgstr "Қосымша туралы кері байланыс жіберу"
 
 #: src/amo/components/AddonFeedbackForm/index.js:211
 msgid "Report the add-on because it's illegal or incompliant"
@@ -202,27 +202,27 @@ msgstr ""
 
 #: src/amo/components/AddonMoreInfo/index.js:329
 msgid "See all versions"
-msgstr ""
+msgstr "Барлық нұсқаларды қарау"
 
 #: src/amo/components/AddonMoreInfo/index.js:385
 msgid "Add-on Links"
-msgstr ""
+msgstr "Қосымша сілтемелері"
 
 #: src/amo/components/AddonMoreInfo/index.js:398
 msgid "Version"
-msgstr ""
+msgstr "Нұсқасы"
 
 #: src/amo/components/AddonMoreInfo/index.js:406
 msgid "Size"
-msgstr ""
+msgstr "Өлшемі"
 
 #: src/amo/components/AddonMoreInfo/index.js:414 src/amo/components/CollectionDetails/index.js:87 src/amo/pages/CollectionFeedback/index.js:159
 msgid "Last updated"
-msgstr ""
+msgstr "Соңғы жаңартылған"
 
 #: src/amo/components/AddonMoreInfo/index.js:422
 msgid "Related Categories"
-msgstr ""
+msgstr "Қатысты санаттар"
 
 #: src/amo/components/AddonMoreInfo/index.js:432
 msgid "License"
@@ -683,27 +683,27 @@ msgstr ""
 
 #: src/amo/components/ConfirmationDialog/index.js:53
 msgid "Confirm"
-msgstr ""
+msgstr "Растау"
 
 #: src/amo/components/ContributeCard/index.js:130
 msgid "Contribute now"
-msgstr ""
+msgstr "Қазір үлес қосу"
 
 #: src/amo/components/ContributeCard/index.js:57
 msgid "Support this developer"
-msgstr ""
+msgstr "Осы әзірлеушіні қолдау"
 
 #: src/amo/components/ContributeCard/index.js:58
 msgid "Support these developers"
-msgstr ""
+msgstr "Осы әзірлеушілерді қолдау"
 
 #: src/amo/components/ContributeCard/index.js:62
 msgid "The developer of this extension asks that you help support its continued development by making a small contribution."
-msgstr ""
+msgstr "Бұл кеңейтудің әзірлеушісі оның одан әрі дамуына шағын үлес қосу арқылы қолдау көрсетуіңізді сұрайды."
 
 #: src/amo/components/ContributeCard/index.js:64
 msgid "The developers of this extension ask that you help support its continued development by making a small contribution."
-msgstr ""
+msgstr "Бұл кеңейтудің әзірлеушілері оның одан әрі дамуына шағын үлес қосу арқылы қолдау көрсетуіңізді сұрайды."
 
 #: src/amo/components/ContributeCard/index.js:71
 msgid "Support this artist"
