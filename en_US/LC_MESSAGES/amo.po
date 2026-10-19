@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-28 10:52+0000\n"
+"POT-Creation-Date: 2026-10-19 09:02+0000\n"
 "PO-Revision-Date: 2016-11-10 09:55+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -44,7 +44,7 @@ msgstr ""
 
 #. This action allows the add-on developer or an admin to edit an add-on's properties.
 #: src/amo/components/AddonAdminLinks/index.js:49
-#: src/amo/components/AddonMoreInfo/index.js:220
+#: src/amo/components/AddonMoreInfo/index.js:222
 #, fuzzy
 msgid "Edit add-on"
 msgstr "Firefox Add-ons"
@@ -111,7 +111,7 @@ msgid "This add-on is not available on your platform."
 msgstr ""
 
 #: src/amo/components/AddonFeedbackForm/index.js:148
-#: src/amo/components/SearchResult/index.js:249
+#: src/amo/components/SearchResult/index.js:253
 #, fuzzy
 msgid "%(total)s user"
 msgid_plural "%(total)s users"
@@ -195,116 +195,116 @@ msgstr "Add-ons for Firefox"
 msgid "%(addonName)s – Get this Dictionary for 🦊 Firefox (%(locale)s)"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:155
+#: src/amo/components/AddonMoreInfo/index.js:157
 #: src/amo/pages/UserProfile/index.js:361
 #: src/amo/pages/UserProfile/index.js:364
 #: src/amo/pages/UserProfileEdit/index.js:674
 msgid "Homepage"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:172
+#: src/amo/components/AddonMoreInfo/index.js:174
 msgid "Support site"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:186
+#: src/amo/components/AddonMoreInfo/index.js:188
 msgid "Support Email"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:204
+#: src/amo/components/AddonMoreInfo/index.js:206
 msgid "Visit stats dashboard"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:242
+#: src/amo/components/AddonMoreInfo/index.js:244
 #, fuzzy
 msgid "Custom License"
 msgstr "No results were found for \"%(query)s\"."
 
 #. This will output, in English: "2 months ago (Dec 12 2016)"
-#: src/amo/components/AddonMoreInfo/index.js:287
+#: src/amo/components/AddonMoreInfo/index.js:289
 msgid "%(timeFromNow)s (%(date)s)"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:304
+#: src/amo/components/AddonMoreInfo/index.js:306
 msgid "Read the privacy policy for this add-on"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:316
+#: src/amo/components/AddonMoreInfo/index.js:318
 msgid "Read the license agreement for this add-on"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:329
+#: src/amo/components/AddonMoreInfo/index.js:331
 #, fuzzy
 msgid "See all versions"
 msgstr "Browse all extensions"
 
-#: src/amo/components/AddonMoreInfo/index.js:385
+#: src/amo/components/AddonMoreInfo/index.js:387
 #, fuzzy
 msgid "Add-on Links"
 msgstr "Add-ons for Firefox"
 
-#: src/amo/components/AddonMoreInfo/index.js:398
+#: src/amo/components/AddonMoreInfo/index.js:400
 msgid "Version"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:406
+#: src/amo/components/AddonMoreInfo/index.js:408
 msgid "Size"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:414
+#: src/amo/components/AddonMoreInfo/index.js:416
 #: src/amo/components/CollectionDetails/index.js:87
 #: src/amo/pages/CollectionFeedback/index.js:159
 msgid "Last updated"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:422
+#: src/amo/components/AddonMoreInfo/index.js:424
 #, fuzzy
 msgid "Related Categories"
 msgstr "Category"
 
-#: src/amo/components/AddonMoreInfo/index.js:432
+#: src/amo/components/AddonMoreInfo/index.js:434
 msgid "License"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:440
+#: src/amo/components/AddonMoreInfo/index.js:442
 #, fuzzy
 msgid "Privacy Policy"
 msgstr "Privacy policy"
 
-#: src/amo/components/AddonMoreInfo/index.js:448
+#: src/amo/components/AddonMoreInfo/index.js:450
 msgid "End-User License Agreement"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:456
+#: src/amo/components/AddonMoreInfo/index.js:458
 msgid "Version History"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:466
+#: src/amo/components/AddonMoreInfo/index.js:468
 msgid "Usage Statistics"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:474
+#: src/amo/components/AddonMoreInfo/index.js:476
 msgid "Tags"
 msgstr ""
 
-#: src/amo/components/AddonMoreInfo/index.js:481
+#: src/amo/components/AddonMoreInfo/index.js:483
 #: src/amo/components/CollectionAddAddon/index.js:196
 #, fuzzy
 msgid "Add to collection"
 msgstr "Browse all extensions"
 
 #. This is a list of links to administrative functions.
-#: src/amo/components/AddonMoreInfo/index.js:491
+#: src/amo/components/AddonMoreInfo/index.js:493
 #, fuzzy
 msgid "Admin Links"
 msgstr "Add-ons for Firefox"
 
 #. This is a list of links to Developer functions.
-#: src/amo/components/AddonMoreInfo/index.js:503
+#: src/amo/components/AddonMoreInfo/index.js:505
 #, fuzzy
 msgid "Author Links"
 msgstr "Add-ons for Firefox"
 
-#: src/amo/components/AddonMoreInfo/index.js:524
+#: src/amo/components/AddonMoreInfo/index.js:526
 msgid "More information"
 msgstr ""
 
@@ -872,11 +872,11 @@ msgid ""
 "making a small contribution."
 msgstr ""
 
-#: src/amo/components/CopyAddonId/index.js:40
+#: src/amo/components/CopyAddonId/index.js:39
 msgid "Add-on ID copied"
 msgstr ""
 
-#: src/amo/components/CopyAddonId/index.js:49
+#: src/amo/components/CopyAddonId/index.js:48
 msgid "Copy add-on ID"
 msgstr ""
 
@@ -2490,11 +2490,11 @@ msgstr "Firefox Add-ons"
 msgid "Go to the add-on page"
 msgstr ""
 
-#: src/amo/components/SearchResult/index.js:200
+#: src/amo/components/SearchResult/index.js:204
 msgid "No theme preview available"
 msgstr ""
 
-#: src/amo/components/SearchResult/index.js:229
+#: src/amo/components/SearchResult/index.js:233
 #, fuzzy
 msgid "Add-on note"
 msgstr "Add-ons for Firefox"
@@ -2741,11 +2741,11 @@ msgstr ""
 msgid "Custom License for %(addonName)s"
 msgstr "No results were found for \"%(query)s\"."
 
-#: src/amo/pages/AddonInfo/index.js:164
+#: src/amo/pages/AddonInfo/index.js:166
 msgid "End-User License Agreement for %(addonName)s"
 msgstr ""
 
-#: src/amo/pages/AddonInfo/index.js:168
+#: src/amo/pages/AddonInfo/index.js:170
 #, fuzzy
 msgid "Privacy policy for %(addonName)s"
 msgstr "No results were found for \"%(query)s\"."
