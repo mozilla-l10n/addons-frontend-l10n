@@ -61,18 +61,18 @@ msgstr "Перевірка коду додатка"
 
 #: src/amo/components/AddonBadges/index.js:136
 msgid "%(average)s (%(count)s review)"
-msgstr ""
+msgstr "%(average)s (%(count)s відгуків)"
 
 #: src/amo/components/AddonBadges/index.js:140
 msgid "%(average)s (%(count)s reviews)"
-msgstr ""
+msgstr "%(average)s (%(count)s відгуків)"
 
 #: src/amo/components/AddonBadges/index.js:169
 msgid "%(count)s User"
 msgid_plural "%(count)s Users"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%(count)s користувач"
+msgstr[1] "%(count)s користувача"
+msgstr[2] "%(count)s користувачів"
 
 #: src/amo/components/AddonBadges/index.js:176
 msgid "No Users"
@@ -745,11 +745,11 @@ msgstr "Автори цього додатка просять вас поспр�
 
 #: src/amo/components/CopyAddonId/index.js:39
 msgid "Add-on ID copied"
-msgstr ""
+msgstr "ID додатку скопійовано"
 
 #: src/amo/components/CopyAddonId/index.js:48
 msgid "Copy add-on ID"
-msgstr ""
+msgstr "Копіювати ID додатку"
 
 #: src/amo/components/DismissibleTextForm/index.js:199
 msgid "Enter text."
@@ -1377,23 +1377,23 @@ msgstr "Настанови з написання відгуків"
 
 #: src/amo/components/Footer/index.js:159
 msgid "Download"
-msgstr ""
+msgstr "Завантажити"
 
 #: src/amo/components/Footer/index.js:223
 msgid "Latest Builds"
-msgstr ""
+msgstr "Останні збірки"
 
 #: src/amo/components/Footer/index.js:247
 msgid "Firefox for Business"
-msgstr ""
+msgstr "Firefox для бізнесу"
 
 #: src/amo/components/Footer/index.js:263
 msgid "Community"
-msgstr ""
+msgstr "Спільнота"
 
 #: src/amo/components/Footer/index.js:293
 msgid "Follow"
-msgstr ""
+msgstr "Підписатися"
 
 #: src/amo/components/Footer/index.js:348
 msgid "Privacy"
