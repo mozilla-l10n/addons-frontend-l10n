@@ -175,7 +175,7 @@ msgstr "Página de inicio"
 
 #: src/amo/components/AddonMoreInfo/index.js:174
 msgid "Support site"
-msgstr "Ayuda del sitio"
+msgstr "Sitio de soporte"
 
 #: src/amo/components/AddonMoreInfo/index.js:188
 msgid "Support Email"
