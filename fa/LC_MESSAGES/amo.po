@@ -79,7 +79,7 @@ msgstr "بدون کاربر"
 
 #: src/amo/components/AddonBadges/index.js:60
 msgid "Available on Firefox for Android™"
-msgstr "در فایرفاکس برای Android™ موجود است"
+msgstr "موجود برای فایرفاکس اندروید™"
 
 #: src/amo/components/AddonBadges/index.js:76
 msgid "Experimental"
