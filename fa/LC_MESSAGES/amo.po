@@ -2384,7 +2384,7 @@ msgstr "هنوز بررسی‌ای ثبت نشده است"
 #: src/amo/pages/Addon/index.js:304
 msgid "Rated %(ratingAverage)s by 1 reviewer"
 msgid_plural "Rated %(ratingAverage)s by %(ratingCount)s reviewers"
-msgstr[0] "امتیاز %(ratingAverage)s توسط ۱ بررسی‌کننده"
+msgstr[0] "امتیاز %(ratingAverage)s توسط %(ratingCount) بررسی‌کننده"
 msgstr[1] "امتیاز %(ratingAverage)s توسط %(ratingCount)s بررسی‌کننده"
 
 #: src/amo/pages/Addon/index.js:341
