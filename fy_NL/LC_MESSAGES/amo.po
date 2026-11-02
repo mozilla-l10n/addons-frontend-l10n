@@ -3285,7 +3285,7 @@ msgstr "Ienige HTML stipe: %(htmlTags)s. Keppelingen binne ferbean."
 
 #: src/amo/pages/UserProfileEdit/index.js:767
 msgid "Notifications"
-msgstr "Meldingen"
+msgstr "Notifikaasjes"
 
 #: src/amo/pages/UserProfileEdit/index.js:771
 msgid "From time to time, Mozilla may send you email about upcoming releases and add-on events. Please select the topics you are interested in."
