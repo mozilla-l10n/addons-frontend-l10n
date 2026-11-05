@@ -3077,7 +3077,7 @@ msgid ""
 "Post technical issues, support requests, or feature suggestions. Use the available support options for each add-on, if available. You can find them in the \"More information\" section in the sidebar"
 " on the add-on's detail page."
 msgstr ""
-"Technyske problemen, stipefragen of oanfragen foar funksjes pleatse. Brûk hjirfoar, wannear beskikber, de stipeopsjes foar elke add-on. Jo fine dizze yn de seksje ‘Mear ynformaasje’ yn de sidebalke "
+"Technyske problemen, stipefragen of oanfragen foar funksjes pleatse. Brûk hjirfoar, wannear beskikber, de stipeopsjes foar elke add-on. Jo fine dizze yn de seksje ‘Mear ynformaasje’ yn de sydbalke "
 "op de detailside fan de add-on."
 
 #: src/amo/pages/StaticPages/ReviewGuide/index.js:81
