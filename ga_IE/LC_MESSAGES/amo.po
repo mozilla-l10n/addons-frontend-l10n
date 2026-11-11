@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-19 09:02+0000\n"
+"POT-Creation-Date: 2026-11-11 11:47+0000\n"
 "Language: ga_IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -436,8 +436,8 @@ msgstr "ó %(authorName)s, %(timestamp)s"
 #: src/amo/components/AddonReviewCard/index.js:367
 #, fuzzy
 msgid ""
-"by %(linkUserProfileStart)s%(authorName)s%(linkUserProfileEnd)s, "
-"%(linkStart)s%(timestamp)s%(linkEnd)s"
+"by %(linkUserProfileStart)s%(authorName)s%(linkUserProfileEnd)s, %"
+"(linkStart)s%(timestamp)s%(linkEnd)s"
 msgstr "ó %(authorName)s, %(timestamp)s"
 
 #: src/amo/components/AddonReviewCard/index.js:480
@@ -972,9 +972,9 @@ msgstr ""
 
 #: src/amo/components/Errors/NotAuthorized/index.js:23
 msgid ""
-"If you are signed in and think this message is an error, please <a "
-"href=\"%(url)s\">file an issue</a>. Tell us where you came from and what you "
-"were trying to access, and we'll fix the issue."
+"If you are signed in and think this message is an error, please <a href=\"%"
+"(url)s\">file an issue</a>. Tell us where you came from and what you were "
+"trying to access, and we'll fix the issue."
 msgstr ""
 "Má tá tú logáilte isteach agus má shíleann tú gur botún é seo, ba chóir duit "
 "<a href=\"%(url)s\">tuairisc a dhéanamh</a> faoin fhadhb. Inis dúinn cá as "
@@ -997,9 +997,9 @@ msgstr ""
 msgid ""
 "Try visiting the page later, as the theme or extension may become available "
 "again. Alternatively, you may be able to find what you’re looking for in one "
-"of the available %(extensionStart)sextensions%(extensionEnd)s or "
-"%(themeStart)sthemes%(themeEnd)s, or by asking for help on our "
-"%(communityStart)scommunity forums%(communityEnd)s."
+"of the available %(extensionStart)sextensions%(extensionEnd)s or %"
+"(themeStart)sthemes%(themeEnd)s, or by asking for help on our %"
+"(communityStart)scommunity forums%(communityEnd)s."
 msgstr ""
 
 #: src/amo/components/Errors/NotFound/index.js:78
@@ -1053,10 +1053,10 @@ msgstr ""
 
 #: src/amo/components/Errors/UnavailableForLegalReasons/index.js:25
 msgid ""
-"You may be able to find what you’re looking for in one of the available "
-"%(extensionStart)sextensions%(extensionEnd)s or "
-"%(themeStart)sthemes%(themeEnd)s, or by asking for help on our "
-"%(communityStart)scommunity forums%(communityEnd)s."
+"You may be able to find what you’re looking for in one of the available %"
+"(extensionStart)sextensions%(extensionEnd)s or %(themeStart)sthemes%"
+"(themeEnd)s, or by asking for help on our %(communityStart)scommunity forums%"
+"(communityEnd)s."
 msgstr ""
 
 #: src/amo/components/Errors/UnavailableForLegalReasons/index.js:76
@@ -1135,9 +1135,9 @@ msgstr ""
 #: src/amo/components/FeedbackForm/index.js:139
 msgid ""
 "Example: Fraud. (If you wish to report a copyright or trademark "
-"infringement, you can learn more about how to do so in our "
-"%(startLink)sCopyright or Trademark Infringement Reporting "
-"article%(endLink)s)."
+"infringement, you can learn more about how to do so in our %"
+"(startLink)sCopyright or Trademark Infringement Reporting article%"
+"(endLink)s)."
 msgstr ""
 
 #: src/amo/components/FeedbackForm/index.js:151
@@ -1644,8 +1644,8 @@ msgstr "Breiseáin Firefox"
 
 #: src/amo/components/GetFirefoxBanner/index.js:107
 msgid ""
-"To use these add-ons, you'll need to %(downloadLinkStart)sdownload "
-"Firefox%(downloadLinkEnd)s."
+"To use these add-ons, you'll need to %(downloadLinkStart)sdownload Firefox%"
+"(downloadLinkEnd)s."
 msgstr ""
 
 #: src/amo/components/GetFirefoxBanner/index.js:109
@@ -2419,11 +2419,11 @@ msgstr "Catagóirí á lódáil."
 #: src/amo/components/SearchContextCard/index.js:59
 #, fuzzy
 msgid ""
-"%(count)s extension found for \"%(query)s\" with tag %(tag)s in "
-"%(categoryName)s"
+"%(count)s extension found for \"%(query)s\" with tag %(tag)s in %"
+"(categoryName)s"
 msgid_plural ""
-"%(count)s extensions found for \"%(query)s\" with tag %(tag)s in "
-"%(categoryName)s"
+"%(count)s extensions found for \"%(query)s\" with tag %(tag)s in %"
+"(categoryName)s"
 msgstr[0] "Gan torthaí ar \"%(query)s\"."
 msgstr[1] "Gan torthaí ar \"%(query)s\"."
 msgstr[2] "Gan torthaí ar \"%(query)s\"."
@@ -3049,10 +3049,10 @@ msgstr ""
 msgid ""
 "When Mozilla becomes aware of add-ons, plugins, or other third-party "
 "software that seriously compromise Firefox security, stability, or "
-"performance and meet %(criteriaStartLink)scertain "
-"criteria%(criteriaEndLink)s, the software may be blocked or restricted from "
-"general use. For more information, please read %(supportStartLink)sthis "
-"support article%(supportEndLink)s."
+"performance and meet %(criteriaStartLink)scertain criteria%"
+"(criteriaEndLink)s, the software may be blocked or restricted from general "
+"use. For more information, please read %(supportStartLink)sthis support "
+"article%(supportEndLink)s."
 msgstr ""
 
 #: src/amo/pages/CategoriesPage/index.js:35
@@ -3355,10 +3355,9 @@ msgstr ""
 #: src/amo/pages/StaticPages/About/index.js:119
 msgid ""
 "Want to interact with addons.mozilla.org (AMO) programmatically? Check out "
-"the %(startAddonsServerDocumentation)sAdd-ons Servers "
-"documentation%(endAddonsServerDocumentation)s for details about the APIs "
-"used by AMO and the %(startAddonsManager)sAdd-ons "
-"Manager%(endAddonsManager)s."
+"the %(startAddonsServerDocumentation)sAdd-ons Servers documentation%"
+"(endAddonsServerDocumentation)s for details about the APIs used by AMO and "
+"the %(startAddonsManager)sAdd-ons Manager%(endAddonsManager)s."
 msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:140
@@ -3402,8 +3401,8 @@ msgstr "Breiseáin Firefox"
 
 #: src/amo/pages/StaticPages/About/index.js:194
 msgid ""
-"If you find a problem with the site, we'd love to fix it. Please file an "
-"%(startIssueLink)sissue%(endIssueLink)s and include as much detail as "
+"If you find a problem with the site, we'd love to fix it. Please file an %"
+"(startIssueLink)sissue%(endIssueLink)s and include as much detail as "
 "possible."
 msgstr ""
 
@@ -3417,9 +3416,9 @@ msgstr ""
 #: src/amo/pages/StaticPages/About/index.js:210
 msgid ""
 "To report a security vulnerability for an extension, even if it is not "
-"hosted on this site, please file an "
-"%(startSecIssueLink)sissue%(endSecIssueLink)s on Bugzilla. All security "
-"vulnerability reports are %(startLink)sconfidential%(endLink)s."
+"hosted on this site, please file an %(startSecIssueLink)sissue%"
+"(endSecIssueLink)s on Bugzilla. All security vulnerability reports are %"
+"(startLink)sconfidential%(endLink)s."
 msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:230
@@ -3429,9 +3428,9 @@ msgstr ""
 #: src/amo/pages/StaticPages/About/index.js:235
 msgid ""
 "If you would like to learn more about how to manage add-ons in Firefox, or "
-"need to find general Firefox support, please visit "
-"%(startSUMOLink)sSupport%(endSUMOLink)s Mozilla. If you don't find an answer "
-"there, you can %(startForumLink)sask on our community forum%(endForumLink)s."
+"need to find general Firefox support, please visit %(startSUMOLink)sSupport%"
+"(endSUMOLink)s Mozilla. If you don't find an answer there, you can %"
+"(startForumLink)sask on our community forum%(endForumLink)s."
 msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:256
@@ -3451,9 +3450,9 @@ msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:37
 msgid ""
-"If you are looking for add-ons for Thunderbird or SeaMonkey, please visit "
-"%(startTBLink)saddons.thunderbird.net%(endTBLink)s or %(startSMLink)saddons."
-"thunderbird.net/seamonkey%(endSMLink)s."
+"If you are looking for add-ons for Thunderbird or SeaMonkey, please visit %"
+"(startTBLink)saddons.thunderbird.net%(endTBLink)s or %"
+"(startSMLink)saddons.thunderbird.net/seamonkey%(endSMLink)s."
 msgstr ""
 
 #: src/amo/pages/StaticPages/About/index.js:54
@@ -3490,9 +3489,9 @@ msgstr ""
 msgid ""
 "Help improve this website. It's open source, and you can file bugs and "
 "submit patches. You can get started with a %(startGoodFirstBugLink)sgood "
-"first bug%(endGoodFirstBugLink)s or view all open issues for AMO’s "
-"%(startAddonsServerRepoLink)sserver%(endAddonsServerRepoLink)s and "
-"%(startAddonsFrontendRepoLink)sfrontend%(endAddonsFrontendRepoLink)s on "
+"first bug%(endGoodFirstBugLink)s or view all open issues for AMO’s %"
+"(startAddonsServerRepoLink)sserver%(endAddonsServerRepoLink)s and %"
+"(startAddonsFrontendRepoLink)sfrontend%(endAddonsFrontendRepoLink)s on "
 "Github."
 msgstr ""
 
@@ -3693,14 +3692,14 @@ msgstr ""
 
 #: src/amo/pages/UserProfile/index.js:274
 msgid ""
-"The profile of %(user)s, Firefox extension author. Find other extensions by "
-"%(user)s, including average ratings, tenure, and the option to report issues."
+"The profile of %(user)s, Firefox extension author. Find other extensions by %"
+"(user)s, including average ratings, tenure, and the option to report issues."
 msgstr ""
 
 #: src/amo/pages/UserProfile/index.js:278
 msgid ""
-"The profile of %(user)s, Firefox theme author. Find other themes by "
-"%(user)s, including average ratings, tenure, and the option to report issues."
+"The profile of %(user)s, Firefox theme author. Find other themes by %"
+"(user)s, including average ratings, tenure, and the option to report issues."
 msgstr ""
 
 #: src/amo/pages/UserProfile/index.js:308
@@ -3967,8 +3966,8 @@ msgstr ""
 
 #: src/amo/pages/UsersUnsubscribe/index.js:83
 msgid ""
-"You can edit your notification settings by %(linkStart)sediting your "
-"profile%(linkEnd)s."
+"You can edit your notification settings by %(linkStart)sediting your profile%"
+"(linkEnd)s."
 msgstr ""
 
 #: src/amo/reducers/collections.js:1022
@@ -3976,17 +3975,17 @@ msgid "(no name)"
 msgstr ""
 
 #. This is application compatibility information, such as "firefox 41 and later"
-#: src/amo/reducers/versions.js:307
+#: src/amo/reducers/versions.js:312
 msgid "%(application)s %(minVersion)s and later"
 msgstr ""
 
 #. This is application compatibility information, such as "firefox 41 to 45"
-#: src/amo/reducers/versions.js:311
+#: src/amo/reducers/versions.js:316
 msgid "%(application)s %(minVersion)s to %(maxVersion)s"
 msgstr ""
 
 #. This contains a comma-delimited list of applications and versions, such as "android 41 and later, firefox 42 and later"
-#: src/amo/reducers/versions.js:331
+#: src/amo/reducers/versions.js:337
 msgid "Works with %(listOfApplicatonsAndVersions)s"
 msgstr ""
 
