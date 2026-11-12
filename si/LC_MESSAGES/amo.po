@@ -1381,7 +1381,7 @@ msgstr ""
 
 #: src/amo/components/Footer/index.js:263
 msgid "Community"
-msgstr ""
+msgstr "ප්‍රජාව"
 
 #: src/amo/components/Footer/index.js:293
 msgid "Follow"
